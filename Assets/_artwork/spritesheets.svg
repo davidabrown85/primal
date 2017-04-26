@@ -1,0 +1,1857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="spritesheets.svg"
+   inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\heart.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3880"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e60000;stop-opacity:1;"
+         offset="0"
+         id="stop3882" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3874"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#00e600;stop-opacity:1;"
+         offset="0"
+         id="stop3876" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3868"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0000e6;stop-opacity:1;"
+         offset="0"
+         id="stop3870" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3862"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#00e6e6;stop-opacity:1;"
+         offset="0"
+         id="stop3864" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3856"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e600e6;stop-opacity:1;"
+         offset="0"
+         id="stop3858" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3850"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e6e600;stop-opacity:1;"
+         offset="0"
+         id="stop3852" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3850"
+       id="linearGradient3854"
+       x1="0"
+       y1="2022.2306"
+       x2="138"
+       y2="2022.2306"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92753556,0,0,0.92753628,1.6954336e-6,149.24705)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3856"
+       id="linearGradient3860"
+       x1="0"
+       y1="1861.8394"
+       x2="138"
+       y2="1861.8394"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92753556,0,0,0.92753628,1.6954336e-6,137.38232)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3862"
+       id="linearGradient3866"
+       x1="0"
+       y1="1705.2395"
+       x2="138"
+       y2="1705.2395"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92753556,0,0,0.92753628,1.6954336e-6,126.00184)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3868"
+       id="linearGradient3872"
+       x1="-6.8011565"
+       y1="1548.9394"
+       x2="130.61669"
+       y2="1548.9394"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92753557,0,0,0.92753638,-0.52487783,114.62002)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3874"
+       id="linearGradient3878"
+       x1="-6.0841155"
+       y1="1392.3411"
+       x2="131.33373"
+       y2="1392.3411"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92753557,0,0,0.92753638,-0.4727634,103.23962)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3880"
+       id="linearGradient3884"
+       x1="-5.3761077"
+       y1="1237.7427"
+       x2="132.04174"
+       y2="1237.7427"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92753557,0,0,0.92753638,-0.42131499,92.004595)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.14266694"
+     inkscape:cx="-1121.0794"
+     inkscape:cy="1059.2134"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:9.27536296999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-65-8-4"
+       width="118.18468"
+       height="118.18468"
+       x="127.22858"
+       y="1181.5497"
+       transform="matrix(0.99998952,-0.00457925,0.00457925,0.99998952,0,0)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\red.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:9.27536296999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-6-4-4-3"
+       width="118.18468"
+       height="118.18468"
+       x="126.52042"
+       y="1336.1804"
+       transform="matrix(0.99998952,-0.00457925,0.00457925,0.99998952,0,0)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\green.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:9.27536296999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-3-25-5-7"
+       width="118.18468"
+       height="118.18468"
+       x="125.80323"
+       y="1492.8113"
+       transform="matrix(0.99998952,-0.00457925,0.00457925,0.99998952,0,0)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\blue.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:9.27536201000000030;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-4-5-1-13"
+       width="118.72464"
+       height="118.72464"
+       x="132.6378"
+       y="1648.311"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cyan.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:9.27536201000000030;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-3-0-0-8-9"
+       width="118.72464"
+       height="118.72464"
+       x="132.63768"
+       y="1804.9436"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\magenta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:9.27536201000000030;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-4-2-3-9-3"
+       width="118.72464"
+       height="118.72464"
+       x="132.63768"
+       y="1965.5769"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\yellow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:url(#linearGradient3884);stroke-width:9.27535914999999990;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-65-8-4-2"
+       width="118.18459"
+       height="118.18468"
+       x="-0.77016824"
+       y="1180.9636"
+       transform="matrix(0.99998952,-0.00457925,0.00457925,0.99998952,0,0)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\red.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:url(#linearGradient3878);stroke-width:9.27535914999999990;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-6-4-4-3-7"
+       width="118.18459"
+       height="118.18468"
+       x="-1.478319"
+       y="1335.5942"
+       transform="matrix(0.99998952,-0.00457925,0.00457925,0.99998952,0,0)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\green.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:url(#linearGradient3872);stroke-width:9.27535914999999990;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-3-25-5-7-5"
+       width="118.18459"
+       height="118.18468"
+       x="-2.1955144"
+       y="1492.2252"
+       transform="matrix(0.99998952,-0.00457925,0.00457925,0.99998952,0,0)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\blue.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:url(#linearGradient3866);stroke-width:9.27535914999999990;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-4-5-1-13-8"
+       width="118.72456"
+       height="118.72464"
+       x="4.6376796"
+       y="1648.311"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cyan.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:url(#linearGradient3860);stroke-width:9.27535914999999990;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-3-0-0-8-9-8"
+       width="118.72456"
+       height="118.72464"
+       x="4.6376796"
+       y="1804.9436"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\magenta.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:url(#linearGradient3854);stroke-width:9.27535914999999990;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="rect5956-4-2-3-9-3-6"
+       width="118.72456"
+       height="118.72464"
+       x="4.6376796"
+       y="1965.5769"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\yellow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#e6e600;stroke-width:9.69696903000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-10-4-8-4-9"
+       width="118.30303"
+       height="118.30303"
+       x="900.84857"
+       y="929.21063"
+       ry="59.151516"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\circle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:#e600e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-10-4-8-4-1-8"
+       width="118"
+       height="118"
+       x="773.00006"
+       y="929.36218"
+       ry="59"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\circle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#00e6e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-10-4-8-4-1-9-92"
+       width="118"
+       height="118"
+       x="645.00006"
+       y="929.36218"
+       ry="59"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\circle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-10-4-8-4-1-9-9-7"
+       width="118"
+       height="118"
+       x="517.00006"
+       y="929.36218"
+       ry="59"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\circle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#00e600;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-10-4-8-4-1-9-7-26"
+       width="118"
+       height="118"
+       x="389.00003"
+       y="929.36218"
+       ry="59"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\circle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#e60000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-10-4-8-4-1-9-7-2-8"
+       width="118"
+       height="118"
+       x="261.00009"
+       y="929.36218"
+       ry="59"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\circle.png" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#e60000;stroke-width:4.58509207000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6459-0-7-4"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.0262664,-0.1427599,0.12368314,2.3387956,-1104.1201,-188.42723)"
+       inkscape:export-xdpi="85.888153"
+       inkscape:export-ydpi="85.888153"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\triangle.png" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#e60000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-52-6-2"
+       width="118"
+       height="118"
+       x="261.00009"
+       y="629.36218"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#e60000;stroke-width:8.03975772999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6367-4-8-46-5"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="41.251934"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -59.20457,9.37709 -27.21336,-53.40922 42.3858,-42.3858 53.40922,27.21336 z"
+       inkscape:transform-center-x="0.376967"
+       inkscape:transform-center-y="-5.8147602"
+       transform="matrix(0.21394736,1.2515632,-1.1979109,0.22352968,1017.7112,-366.0027)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\hexagon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#e60000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 295.00006,329.36176 0,36 -34,0 0,48 34,0 0,34 48,0 0,-34 36,0 0,-48 -36,0 0,-36 -48,0 z"
+       id="rect4039-10-2-7-5-1-8-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cross.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#e60000;stroke-width:8.03975773;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-1-4-3"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="-0.19142161"
+       inkscape:transform-center-y="-6.0692104"
+       transform="matrix(0.17828896,1.261738,-1.2033843,0.19014162,1042.4571,-649.10105)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;fill-opacity:1;stroke:#00e600;stroke-width:4.58509207000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6459-0-9-1-1"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.0262664,-0.1427599,0.12368314,2.3387956,-976.12008,-188.42723)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\triangle.png"
+       inkscape:export-xdpi="85.888153"
+       inkscape:export-ydpi="85.888153" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#00e600;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-52-0-5-4"
+       width="118"
+       height="118"
+       x="389.00003"
+       y="629.36218"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;fill-opacity:1;stroke:#00e600;stroke-width:8.03975772999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6367-4-8-4-1-9"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="41.251934"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -59.20457,9.37709 -27.21336,-53.40922 42.3858,-42.3858 53.40922,27.21336 z"
+       inkscape:transform-center-x="0.376967"
+       inkscape:transform-center-y="-5.8147602"
+       transform="matrix(0.21394736,1.2515632,-1.1979109,0.22352968,1145.7112,-366.0027)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\hexagon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:#00e600;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 423.00006,329.36176 0,36 -34,0 0,48 34,0 0,34 48,0 0,-34 36,0 0,-48 -36,0 0,-36 -48,0 z"
+       id="rect4039-10-2-7-5-1-9-2-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cross.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;fill-opacity:1;stroke:#00e600;stroke-width:8.03975773;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-1-2-0-5"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="-0.41144024"
+       inkscape:transform-center-y="-5.8490906"
+       transform="matrix(0.16452681,1.2596972,-1.2057128,0.17631764,1180.1562,-638.55003)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000e6;stroke-width:4.58509207000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6459-0-8-5-8"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.0262664,-0.1427599,0.12368314,2.3387956,-848.12008,-188.42723)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\triangle.png"
+       inkscape:export-xdpi="85.888153"
+       inkscape:export-ydpi="85.888153" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-52-3-8-7"
+       width="118"
+       height="118"
+       x="517.00006"
+       y="629.36218"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000e6;stroke-width:8.03975772999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6367-4-8-8-8-9"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="41.251934"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -59.20457,9.37709 -27.21336,-53.40922 42.3858,-42.3858 53.40922,27.21336 z"
+       inkscape:transform-center-x="0.376967"
+       inkscape:transform-center-y="-5.8147602"
+       transform="matrix(0.21394736,1.2515632,-1.1979109,0.22352968,1273.7112,-366.0027)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\hexagon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 551.0001,329.36186 0,35.9999 -34.00004,0 0,48 34.00004,0 0,34 48,0 0,-34 36,0 0,-48 -36,0 0,-35.9999 -48,0 z"
+       id="rect4039-10-2-7-5-1-1-1-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cross.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000e6;stroke-width:8.03975773;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-1-7-9-4"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="-0.52415877"
+       inkscape:transform-center-y="-5.736717"
+       transform="matrix(0.15746632,1.2586512,-1.2069026,0.16926161,1313.1289,-633.16198)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;fill-opacity:1;stroke:#00e6e6;stroke-width:4.58509207000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6459-0-0-0-8"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.0262664,-0.1427599,0.12368314,2.3387956,-720.12008,-188.42723)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\triangle.png"
+       inkscape:export-xdpi="85.888153"
+       inkscape:export-ydpi="85.888153" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#00e6e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-52-35-4-6"
+       width="118"
+       height="118"
+       x="645.00006"
+       y="629.36218"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;fill-opacity:1;stroke:#00e6e6;stroke-width:8.03975772999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6367-4-8-0-9-0"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="41.251934"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -59.20457,9.37709 -27.21336,-53.40922 42.3858,-42.3858 53.40922,27.21336 z"
+       inkscape:transform-center-x="0.376967"
+       inkscape:transform-center-y="-5.8147602"
+       transform="matrix(0.21394736,1.2515632,-1.1979109,0.22352968,1401.7112,-366.0027)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\hexagon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:#00e6e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 679.00006,329.36176 0,36 -34,0 0,48 34,0 0,34 48,0 0,-34 36,0 0,-48 -36,0 0,-36 -48,0 z"
+       id="rect4039-10-2-7-5-1-14-2-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cross.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;fill-opacity:1;stroke:#00e6e6;stroke-width:8.03975773;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-1-1-2-4"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="-0.23691771"
+       inkscape:transform-center-y="-6.0237824"
+       transform="matrix(0.1754559,1.2613177,-1.2038646,0.18728817,1428.4544,-646.92376)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff00ff;fill-opacity:1;stroke:#e600e6;stroke-width:4.58509207000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6459-0-6-0-6"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.0262664,-0.1427599,0.12368314,2.3387956,-592.11996,-188.42723)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\triangle.png"
+       inkscape:export-xdpi="85.888153"
+       inkscape:export-ydpi="85.888153" />
+    <rect
+       style="fill:#ff00ff;fill-opacity:1;stroke:#e600e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-52-1-5-8"
+       width="118"
+       height="118"
+       x="773.00006"
+       y="629.36218"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff00ff;fill-opacity:1;stroke:#e600e6;stroke-width:8.03975772999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6367-4-8-9-9-1"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="41.251934"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -59.20457,9.37709 -27.21336,-53.40922 42.3858,-42.3858 53.40922,27.21336 z"
+       inkscape:transform-center-x="0.376927"
+       inkscape:transform-center-y="-5.8147602"
+       transform="matrix(0.21394736,1.2515632,-1.1979109,0.22352968,1529.7113,-366.0027)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\hexagon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:#e600e6;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 807.00012,329.36176 0,36 -34,0 0,48 34,0 0,34 48,0 0,-34 36,0 0,-48 -36,0 0,-36 -48,0 z"
+       id="rect4039-10-2-7-5-1-3-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cross.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff00ff;fill-opacity:1;stroke:#e600e6;stroke-width:8.03975773;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-1-26-4-8"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="-0.098391519"
+       inkscape:transform-center-y="-6.1629061"
+       transform="matrix(0.18411374,1.2626024,-1.202395,0.19602083,1550.3494,-653.58618)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-opacity:1;stroke:#e6e600;stroke-width:4.58509207000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6459-0-6-0-0-2"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.0262664,-0.1427599,0.12368314,2.3387956,-464.12006,-188.42723)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\triangle.png"
+       inkscape:export-xdpi="85.888153"
+       inkscape:export-ydpi="85.888153" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#e6e600;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-52-1-5-3-3"
+       width="118"
+       height="118"
+       x="901.00012"
+       y="629.36218"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-opacity:1;stroke:#e6e600;stroke-width:8.03975772999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6367-4-8-9-9-5-7"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="41.251934"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -59.20457,9.37709 -27.21336,-53.40922 42.3858,-42.3858 53.40922,27.21336 z"
+       inkscape:transform-center-x="0.376947"
+       inkscape:transform-center-y="-5.8147602"
+       transform="matrix(0.21394736,1.2515632,-1.1979109,0.22352968,1657.7112,-366.0027)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\hexagon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#e6e600;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 935.00017,329.36176 0,36 -34,0 0,48 34,0 0,34 48,0 0,-34 35.99973,0 0,-48 -35.99973,0 0,-36 -48,0 z"
+       id="rect4039-10-2-7-5-1-3-0-2-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cross.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-opacity:1;stroke:#e6e600;stroke-width:8.03975773;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-1-26-4-1-2"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="-0.098377492"
+       inkscape:transform-center-y="-6.1628993"
+       transform="matrix(0.18411375,1.2626024,-1.202395,0.19602084,1678.3494,-653.5862)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-10-4-8-4-1-9-7-2-8-2"
+       width="118"
+       height="118"
+       x="133.00006"
+       y="929.36218"
+       ry="59"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\circle.png" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.58509207000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6459-0-7-4-0"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.0262664,-0.1427599,0.12368314,2.3387956,-1232.1201,-188.42723)"
+       inkscape:export-xdpi="85.888153"
+       inkscape:export-ydpi="85.888153"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\triangle.png" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-52-6-2-5"
+       width="118"
+       height="118"
+       x="133.00006"
+       y="629.36218"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8.03975772999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6367-4-8-46-5-8"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="41.251934"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -59.20457,9.37709 -27.21336,-53.40922 42.3858,-42.3858 53.40922,27.21336 z"
+       inkscape:transform-center-x="0.376967"
+       inkscape:transform-center-y="-5.8147602"
+       transform="matrix(0.21394736,1.2515632,-1.1979109,0.22352968,889.71124,-366.0027)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\hexagon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 167.00008,329.36176 0,36 -34,0 0,48 34,0 0,34 47.99998,0 0,-34 36,0 0,-48 -36,0 0,-36 -47.99998,0 z"
+       id="rect4039-10-2-7-5-1-8-6-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cross.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8.03975773;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-1-4-3-1"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="-0.19146159"
+       inkscape:transform-center-y="-6.0692104"
+       transform="matrix(0.17828896,1.261738,-1.2033843,0.19014162,914.45708,-649.10105)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.20325184000000010;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-10-4-8-4-1-9-7-2-8-2-17"
+       width="122.79675"
+       height="122.79675"
+       x="2.6018023"
+       y="926.96338"
+       ry="61.398373"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\circle.png" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.29254580000000010;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6459-0-7-4-0-1"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.108635,-0.14856315,0.12871091,2.4338686,-1418.0112,-230.16623)"
+       inkscape:export-xdpi="85.888153"
+       inkscape:export-ydpi="85.888153"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\triangle.png" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.20325184000000010;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-52-6-2-5-1"
+       width="122.79675"
+       height="122.79675"
+       x="2.6018023"
+       y="626.96381"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.01987886000000040;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
+       id="path6367-4-8-46-5-8-5"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="41.251934"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -59.20457,9.37709 -27.21336,-53.40922 42.3858,-42.3858 53.40922,27.21336 z"
+       inkscape:transform-center-x="0.39226313"
+       inkscape:transform-center-y="-6.0511667"
+       transform="matrix(0.2226444,1.3024397,-1.2466064,0.23261625,790.07351,-402.7656)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\hexagon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.20325184000000010;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 37.983856,326.96376 0,37.4634 -35.3821004,0 0,49.9513 35.3821004,0 0,35.3821 49.9513,0 0,-35.3821 37.463394,0 0,-49.9513 -37.463394,0 0,-37.4634 -49.9513,0 z"
+       id="rect4039-10-2-7-5-1-8-6-6-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\cross.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.01987886;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-1-4-3-1-7"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="0.39225726"
+       inkscape:transform-center-y="-6.0511598"
+       transform="matrix(0.22264441,1.3024398,-1.2466064,0.23261626,790.07351,-703.01052)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\star.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60000;stroke-width:10.71184635;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1249.8389,-1092.1138 c -48.1363,-20.4442 -92.0039,-28.0224 -158.1568,-27.3214 -54.9642,0.5821 -96.3598,8.8094 -151.22,30.0546 -21.8773,8.4722 -6.6487,-62.088 27.0967,-125.5499 25.4915,-47.9397 88.0177,-107.6972 141.3328,-135.0744 74.3765,-38.192 171.9171,-49.2629 256.9509,-29.1643 139.4791,32.9676 240.8507,140.7811 261.6916,278.3222 l 3.6872,24.3339 -29.76,-12.0636 c -47.8274,-19.3879 -86.9003,-26.2267 -149.071,-26.092 -57.2519,0.1243 -113.9659,11.1815 -155.3821,30.294 -12.0618,5.5663 -18.2212,4.5557 -47.1693,-7.7391 l 0,0 z"
+       id="path6501-7-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\levelselect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00e600;stroke-width:10.71184635;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1652.3771,-195.83532 c -162.0764,-38.01271 -270.2141,-161.44893 -271.8257,-310.28124 -0.6504,-60.05852 7.2234,-92.58741 36,-148.72732 18.414,-35.92367 30.7286,-51.26133 70,-87.18499 l 47.6551,-43.5925 6.8153,37.52425 c 8.893,48.96576 15.6839,67.83467 40.0133,111.17393 21.334,38.00328 74.4442,94.12413 111.5862,117.9117 19.0284,12.18666 22.3264,17.0177 22.4085,32.82432 0.1843,35.26918 16.4479,90.5153 39.4282,133.92633 18.7498,35.42022 32.3532,52.11014 72.5614,89.02637 27.217,24.98858 48.7172,46.1267 47.7783,46.97358 -0.9391,0.84687 -17.9392,6.62891 -37.7782,12.84907 -46.7742,14.66515 -138.3897,18.42437 -184.6424,7.5765 l 0,0 z"
+       id="path6503-8-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\rate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000e6;stroke-width:10.71184635;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -925.6781,-139.6787 c -21.9022,-5.30559 -47.6653,-13.39495 -57.252,-17.9764 l -17.4301,-8.32995 23.3823,-15.65345 c 79.7111,-53.36362 138.5335,-147.12441 147.3592,-234.8859 3.4286,-34.09408 4.4805,-36.1754 24.4558,-48.39184 75.4274,-46.13035 134.9069,-134.47264 151.5341,-225.06807 l 6.3952,-34.84284 28.101,22.02141 c 56.3008,44.12016 94.8472,98.72465 116.9151,165.62054 13.6861,41.48741 13.6209,126.59966 -0.1307,169.24137 -36.9083,114.4552 -142.4581,207.3993 -262.1395,230.83276 -51.4704,10.07793 -113.0387,9.09713 -161.1914,-2.56763 l 0,0 z"
+       id="path6505-4-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\muteoff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#e6e600;stroke-width:10.71184635;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1472.6507,-640.34391 c -59.7397,-55.44771 -97.1957,-127.16267 -104.7262,-200.51415 l -2.5528,-24.86221 28.5139,-12.23356 c 47.6694,-20.45233 103.4094,-29.44857 163.7686,-26.43147 49.8701,2.49264 113.184,16.43411 133.8889,29.482 7.318,4.61188 7.2222,5.84759 -0.7969,10.22958 -71.6815,39.17065 -140.3421,134.16652 -158.4334,219.20142 -4.9505,23.27062 -11.3864,42.31028 -14.3017,42.31028 -2.9155,0 -23.3276,-16.7319 -45.3604,-37.18189 z"
+       id="path6507-1-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\play.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#e600e6;stroke-width:10.71184635;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1041.5744,-639.25258 c -12.1371,-76.95839 -63.1028,-160.53327 -125.6278,-206.00785 -15.5583,-11.31555 -29.0705,-22.49229 -30.027,-24.83712 -3.5398,-8.67659 74.3218,-26.51117 127.3041,-29.15935 60.7356,-3.03574 116.1259,5.99134 164.7427,26.8488 l 29.488,12.6507 -3.5647,24.44507 c -12.6803,86.9609 -62.1315,167.91502 -135.2761,221.45346 l -20.6502,15.11527 -6.389,-40.50898 z"
+       id="path6509-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\play.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e6e6;stroke-width:10.71184635;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1259.5378,-318.12348 c -73.3647,-49.20335 -138.504,-154.82728 -138.504,-224.58517 0,-17.44724 1.4554,-20.00286 9.7114,-17.05497 73.6226,26.28751 141.4002,35.77756 202.9951,28.42281 42.949,-5.12841 91.6107,-17.25892 116.1895,-28.96354 l 15.357,-7.31341 -3.3542,21.97407 c -11.3612,74.4291 -44.1902,135.30173 -102.032,189.19046 -23.0257,21.45197 -49.4383,42.59972 -58.6953,46.995 -16.3073,7.74274 -17.6043,7.47301 -41.6675,-8.66525 l 0,0 z"
+       id="path6511-1-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\play.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.92182875;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6459-3-5"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.3617273,-1.4179092,1.5314551,2.1773237,-3559.7308,-788.68324)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\play.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#0000e6;stroke-width:21.4236927;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -598.7101,-308.97512 c -8.7607,-6.93935 -16.2134,-15.48569 -24.3214,-23.19972 -36.2221,-36.30715 -72.8019,-72.26789 -108.5443,-109.04722 -4.6601,-6.66684 5.3197,-14.49248 10.7114,-8.57268 11.8448,11.14311 23.1815,22.81109 34.7463,34.24233 11.7241,-11.30185 22.9483,-23.15215 35.1527,-33.93254 8.1078,-6.23902 13.6946,4.24252 11.5825,11.48607 0.1799,23.09582 0.086,46.19291 0.1114,69.28937 16.1273,16.34219 32.6777,32.28272 48.4085,49.00454 4.355,5.20554 -1.4589,13.17986 -7.8468,10.72985 z m -50.2211,-0.29714 c -6.0265,-3.55142 -10.3147,-9.49241 -15.5899,-14.05567 -10.3528,-10.11669 -20.6728,-20.2666 -31.0083,-30.40085 -8.1409,-0.062 -16.282,-0.12425 -24.4232,-0.18639 -2.9511,-1.49945 -4.8827,-4.52467 -4.2204,-7.83722 0,-13.26212 0,-26.52425 0,-39.78614 1.7214,-5.33815 7.5137,-4.77535 12.0043,-4.75049 3.0278,-0.79268 4.3092,2.74994 6.4119,4.25367 22.1754,22.18531 44.3512,44.3704 66.5266,66.55569 -0.2549,7.49979 0.3225,15.07991 -0.7436,22.51438 -1.2188,3.63603 -5.5487,5.09454 -8.9574,3.69344 z"
+       id="path4833-8-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\muteoff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4114"
+       transform="matrix(1.2898653,0,0,1.2898653,620.86664,-136.61484)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gc.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(1.7926854,0,0,1.7926854,-3001.4284,-3015.7054)"
+         style="stroke:#e60000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g6109-2">
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#e60000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect6107-7"
+           width="78.046341"
+           height="30.41806"
+           x="494.69373"
+           y="1878.2592"
+           ry="15.20903" />
+        <path
+           style="fill:#feffff;fill-opacity:1;stroke:#e60000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 492.66373,1939.9428 c -6.3184,-1.5374 -8.8884,-7.0329 -8.0552,-17.2247 1.1255,-13.7662 3.1585,-34.1216 3.5798,-35.8414 1.9049,-7.777 8.4399,-14.469 16.6074,-17.0065 1.9164,-0.5954 3.6695,-0.6323 30.0199,-0.6323 31.4824,0 29.2319,-0.1712 34.7689,2.6447 3.9102,1.9884 8.0289,6.1638 9.9542,10.0911 0.7732,1.5773 1.6302,3.7836 1.9043,4.903 0.4209,1.7181 2.454,22.0718 3.5774,35.8124 0.3751,4.5876 0.029,8.4582 -1.0041,11.2184 -1.9672,5.2579 -8.1418,7.6632 -13.4454,5.2376 -3.5344,-1.6165 -6.6836,-4.4196 -14.4632,-12.8739 -4.1437,-4.503 -7.6912,-8.2994 -7.8833,-8.4365 -0.4563,-0.3256 -26.3612,-0.3256 -26.8176,0 -0.1921,0.1371 -3.7395,3.9335 -7.8832,8.4365 -7.7199,8.3894 -10.9628,11.2859 -14.3248,12.7945 -2.1729,0.975 -4.725,1.3176 -6.5351,0.8771 z m 23.9492,-35.0004 c 3.7101,-1.7337 6.2204,-4.6091 7.3922,-8.467 1.9083,-6.2825 -1.0774,-12.9847 -7.1065,-15.9528 -2.1111,-1.0393 -2.4747,-1.1084 -5.8275,-1.1084 -3.3529,0 -3.7164,0.069 -5.8275,1.1084 -2.9031,1.4291 -5.6945,4.3745 -6.7344,7.1056 -2.4941,6.5504 0.2221,13.8957 6.275,16.9693 2.5787,1.3094 3.1358,1.4224 6.6261,1.3433 2.704,-0.061 3.541,-0.2219 5.2026,-0.9984 z m -7.8315,-2.5171 c -0.2928,-0.1182 -0.4256,-1.0806 -0.4292,-3.1109 0,-1.6169 -0.1225,-3.1245 -0.266,-3.3501 -0.1659,-0.2612 -1.4278,-0.4462 -3.4716,-0.5089 l -3.211,-0.099 0,-2.7136 0,-2.7137 3.211,-0.099 c 2.0438,-0.063 3.3057,-0.2476 3.4716,-0.5088 0.1435,-0.2257 0.2631,-1.7296 0.266,-3.3421 0,-2.3572 0.1103,-2.9721 0.5417,-3.1377 0.7626,-0.2926 3.9638,-0.2457 4.4531,0.065 0.2612,0.166 0.4461,1.4279 0.5088,3.4717 l 0.099,3.2109 3.3921,0.1696 3.3921,0.1696 0,2.7137 0,2.7137 -3.3921,0.1696 -3.3921,0.1696 -0.099,3.2109 c -0.063,2.0438 -0.2476,3.3057 -0.5088,3.4717 -0.4494,0.2856 -3.8862,0.3206 -4.5656,0.046 z m 52.1533,1.6316 c 0.4664,-0.3412 1.0635,-1.2299 1.3269,-1.9749 0.4346,-1.2291 0.4189,-1.4774 -0.1696,-2.6829 -0.9059,-1.8559 -2.7578,-2.7534 -4.5643,-2.2121 -2.4352,0.7296 -3.5539,3.1646 -2.4716,5.3795 1.1345,2.3218 3.8138,3.001 5.8786,1.4904 z m -7.9375,-8.666 c 0.8766,-0.8766 1.1533,-1.441 1.1533,-2.3524 0,-1.7785 -0.5292,-2.8583 -1.7724,-3.6163 -2.9666,-1.8087 -6.3801,0.4235 -5.918,3.8699 0.2669,1.99 1.7528,3.2521 3.8288,3.2521 1.3162,0 1.7321,-0.1772 2.7083,-1.1533 z m 16.6212,0 c 0.8766,-0.8766 1.1533,-1.441 1.1533,-2.3524 0,-1.7785 -0.5292,-2.8583 -1.7724,-3.6163 -2.9665,-1.8087 -6.3801,0.4235 -5.918,3.8699 0.2669,1.99 1.7528,3.2521 3.8288,3.2521 1.3162,0 1.7322,-0.1772 2.7083,-1.1533 z m -9.0873,-7.6748 c 3.1163,-1.9 2.29,-6.4975 -1.3098,-7.2881 -1.5072,-0.3311 -3.4027,0.7312 -4.1929,2.3499 -0.5889,1.2063 -0.6044,1.4548 -0.1696,2.7026 0.5401,1.5494 2.2646,2.9234 3.6668,2.9214 0.4855,-7e-4 1.3879,-0.3093 2.0055,-0.6858 z"
+           id="path5048-2-6"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.7926854,0,0,1.7926854,-3001.4284,-3015.7054)"
+         style="stroke:none"
+         id="g6109">
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:none"
+           id="rect6107"
+           width="78.046341"
+           height="30.41806"
+           x="494.69373"
+           y="1878.2592"
+           ry="15.20903" />
+        <path
+           style="fill:#feffff;fill-opacity:1;stroke:none"
+           d="m 492.66373,1939.9428 c -6.3184,-1.5374 -8.8884,-7.0329 -8.0552,-17.2247 1.1255,-13.7662 3.1585,-34.1216 3.5798,-35.8414 1.9049,-7.777 8.4399,-14.469 16.6074,-17.0065 1.9164,-0.5954 3.6695,-0.6323 30.0199,-0.6323 31.4824,0 29.2319,-0.1712 34.7689,2.6447 3.9102,1.9884 8.0289,6.1638 9.9542,10.0911 0.7732,1.5773 1.6302,3.7836 1.9043,4.903 0.4209,1.7181 2.454,22.0718 3.5774,35.8124 0.3751,4.5876 0.029,8.4582 -1.0041,11.2184 -1.9672,5.2579 -8.1418,7.6632 -13.4454,5.2376 -3.5344,-1.6165 -6.6836,-4.4196 -14.4632,-12.8739 -4.1437,-4.503 -7.6912,-8.2994 -7.8833,-8.4365 -0.4563,-0.3256 -26.3612,-0.3256 -26.8176,0 -0.1921,0.1371 -3.7395,3.9335 -7.8832,8.4365 -7.7199,8.3894 -10.9628,11.2859 -14.3248,12.7945 -2.1729,0.975 -4.725,1.3176 -6.5351,0.8771 z m 23.9492,-35.0004 c 3.7101,-1.7337 6.2204,-4.6091 7.3922,-8.467 1.9083,-6.2825 -1.0774,-12.9847 -7.1065,-15.9528 -2.1111,-1.0393 -2.4747,-1.1084 -5.8275,-1.1084 -3.3529,0 -3.7164,0.069 -5.8275,1.1084 -2.9031,1.4291 -5.6945,4.3745 -6.7344,7.1056 -2.4941,6.5504 0.2221,13.8957 6.275,16.9693 2.5787,1.3094 3.1358,1.4224 6.6261,1.3433 2.704,-0.061 3.541,-0.2219 5.2026,-0.9984 z m -7.8315,-2.5171 c -0.2928,-0.1182 -0.4256,-1.0806 -0.4292,-3.1109 0,-1.6169 -0.1225,-3.1245 -0.266,-3.3501 -0.1659,-0.2612 -1.4278,-0.4462 -3.4716,-0.5089 l -3.211,-0.099 0,-2.7136 0,-2.7137 3.211,-0.099 c 2.0438,-0.063 3.3057,-0.2476 3.4716,-0.5088 0.1435,-0.2257 0.2631,-1.7296 0.266,-3.3421 0,-2.3572 0.1103,-2.9721 0.5417,-3.1377 0.7626,-0.2926 3.9638,-0.2457 4.4531,0.065 0.2612,0.166 0.4461,1.4279 0.5088,3.4717 l 0.099,3.2109 3.3921,0.1696 3.3921,0.1696 0,2.7137 0,2.7137 -3.3921,0.1696 -3.3921,0.1696 -0.099,3.2109 c -0.063,2.0438 -0.2476,3.3057 -0.5088,3.4717 -0.4494,0.2856 -3.8862,0.3206 -4.5656,0.046 z m 52.1533,1.6316 c 0.4664,-0.3412 1.0635,-1.2299 1.3269,-1.9749 0.4346,-1.2291 0.4189,-1.4774 -0.1696,-2.6829 -0.9059,-1.8559 -2.7578,-2.7534 -4.5643,-2.2121 -2.4352,0.7296 -3.5539,3.1646 -2.4716,5.3795 1.1345,2.3218 3.8138,3.001 5.8786,1.4904 z m -7.9375,-8.666 c 0.8766,-0.8766 1.1533,-1.441 1.1533,-2.3524 0,-1.7785 -0.5292,-2.8583 -1.7724,-3.6163 -2.9666,-1.8087 -6.3801,0.4235 -5.918,3.8699 0.2669,1.99 1.7528,3.2521 3.8288,3.2521 1.3162,0 1.7321,-0.1772 2.7083,-1.1533 z m 16.6212,0 c 0.8766,-0.8766 1.1533,-1.441 1.1533,-2.3524 0,-1.7785 -0.5292,-2.8583 -1.7724,-3.6163 -2.9665,-1.8087 -6.3801,0.4235 -5.918,3.8699 0.2669,1.99 1.7528,3.2521 3.8288,3.2521 1.3162,0 1.7322,-0.1772 2.7083,-1.1533 z m -9.0873,-7.6748 c 3.1163,-1.9 2.29,-6.4975 -1.3098,-7.2881 -1.5072,-0.3311 -3.4027,0.7312 -4.1929,2.3499 -0.5889,1.2063 -0.6044,1.4548 -0.1696,2.7026 0.5401,1.5494 2.2646,2.9234 3.6668,2.9214 0.4855,-7e-4 1.3879,-0.3093 2.0055,-0.6858 z"
+           id="path5048-2"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#00e600;stroke-width:6.39543581;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6367-4-9-3"
+       sodipodi:sides="5"
+       sodipodi:cx="604"
+       sodipodi:cy="690"
+       sodipodi:r1="50.990196"
+       sodipodi:r2="25.41287"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3949088"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 640.05551,726.05551 -31.60871,-11.03472 -27.59586,20.41181 0.72701,-33.4716 -27.94037,-19.93762 32.05803,-9.65186 10.32777,-32.73394 19.08594,27.50641 34.32328,-0.29305 -20.26228,26.65176 z"
+       inkscape:transform-center-x="0.50750491"
+       inkscape:transform-center-y="-7.8301513"
+       transform="matrix(0.2881005,1.685349,-1.613101,0.30100401,-804.2064,-1639.8602)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\rate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m -598.7101,-308.97512 c -8.7607,-6.93935 -16.2134,-15.48569 -24.3214,-23.19972 -36.2221,-36.30715 -72.8019,-72.26789 -108.5443,-109.04722 -4.6601,-6.66684 5.3197,-14.49248 10.7114,-8.57268 11.8448,11.14311 23.1815,22.81109 34.7463,34.24233 11.7241,-11.30185 22.9483,-23.15215 35.1527,-33.93254 8.1078,-6.23902 13.6946,4.24252 11.5825,11.48607 0.1799,23.09582 0.086,46.19291 0.1114,69.28937 16.1273,16.34219 32.6777,32.28272 48.4085,49.00454 4.355,5.20554 -1.4589,13.17986 -7.8468,10.72985 z m -50.2211,-0.29714 c -6.0265,-3.55142 -10.3147,-9.49241 -15.5899,-14.05567 -10.3528,-10.11669 -20.6728,-20.2666 -31.0083,-30.40085 -8.1409,-0.062 -16.282,-0.12425 -24.4232,-0.18639 -2.9511,-1.49945 -4.8827,-4.52467 -4.2204,-7.83722 0,-13.26212 0,-26.52425 0,-39.78614 1.7214,-5.33815 7.5137,-4.77535 12.0043,-4.75049 3.0278,-0.79268 4.3092,2.74994 6.4119,4.25367 22.1754,22.18531 44.3512,44.3704 66.5266,66.55569 -0.2549,7.49979 0.3225,15.07991 -0.7436,22.51438 -1.2188,3.63603 -5.5487,5.09454 -8.9574,3.69344 z"
+       id="path4833-8-7-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\muteoff.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e60000;stroke-width:7.0883379;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect9580-5"
+       width="47.610771"
+       height="51.578331"
+       x="-1311.2297"
+       y="-1234.6586"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\levelselect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e60000;stroke-width:7.0883379;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect9580-4-5"
+       width="47.610771"
+       height="51.578331"
+       x="-1239.8132"
+       y="-1234.6586"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\levelselect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e60000;stroke-width:7.0883379;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect9580-4-9-5"
+       width="47.610771"
+       height="51.578331"
+       x="-1168.3975"
+       y="-1234.6586"
+       inkscape:transform-center-x="-51.57834"
+       inkscape:transform-center-y="162.67026"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\levelselect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e60000;stroke-width:7.0883379;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect9580-5-1"
+       width="47.610771"
+       height="51.578331"
+       x="-1308.7446"
+       y="-1302.7596"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\levelselect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e60000;stroke-width:7.0883379;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect9580-4-5-7"
+       width="47.610771"
+       height="51.578331"
+       x="-1237.3281"
+       y="-1302.7596"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\levelselect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e60000;stroke-width:7.0883379;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect9580-4-9-5-4"
+       width="47.610771"
+       height="51.578331"
+       x="-1165.9124"
+       y="-1302.7596"
+       inkscape:transform-center-x="-51.57834"
+       inkscape:transform-center-y="162.67026"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\levelselect.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000e6;stroke-width:10.71184635;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -395.50455,-112.71985 c -21.9022,-5.30559 -47.6653,-13.39495 -57.252,-17.9764 l -17.4301,-8.32995 23.3823,-15.65345 c 79.7111,-53.36362 138.5335,-147.12441 147.3592,-234.8859 3.4286,-34.09408 4.4805,-36.1754 24.45578,-48.39184 75.4274,-46.13035 134.9069,-134.47264 151.5341,-225.06807 l 6.3952,-34.84284 28.101002,22.02141 c 56.3008,44.12016 94.8472008,98.72465 116.915101,165.62054 13.6861,41.48741 13.6209,126.59966 -0.1307,169.24137 -36.9083012,114.4552 -142.458103,207.3993 -262.139503,230.83276 -51.4704,10.07793 -113.03868,9.09713 -161.19138,-2.56763 l 0,0 z"
+       id="path6505-4-7-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\muteon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4013"
+       transform="translate(85.266123,-450.79376)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\muteon.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4833-9-3"
+         d="m -199.56088,27.12972 c -7.0464,0.15426 -10.5874,7.3539 -15.728,11.09491 -12.3038,11.52167 -24.7403,22.90042 -37.1062,34.35546 -7.798,0.96621 -15.8583,-0.55638 -23.6966,0.70955 -4.6885,1.97526 -3.7245,7.25814 -3.7778,11.34106 0,12.19564 0,24.39108 0,36.58652 2.1464,6.48668 9.4061,4.35694 14.5647,4.74363 4.8308,0.0387 9.6618,0.0729 14.4927,0.1114 15.1382,14.72065 29.9824,29.74615 45.4188,44.15767 6.5328,5.10032 14.012,-3.33675 11.5958,-10.09014 0.1371,-15.76826 -0.5324,-31.55281 -0.1328,-47.308 0.4957,-17.36819 0.032,-34.75523 0.2099,-52.13134 0,-9.55883 -0.068,-19.1185 -0.3417,-28.67368 -0.702,-2.45773 -2.7823,-4.83747 -5.499,-4.89488 z"
+         style="fill:#000000;stroke:#0000e6;stroke-width:21.4236927;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4833-9-3-9"
+         d="m -199.56088,27.12972 c -7.0464,0.15426 -10.5874,7.3539 -15.728,11.09491 -12.3038,11.52167 -24.7403,22.90042 -37.1062,34.35546 -7.798,0.96621 -15.8583,-0.55638 -23.6966,0.70955 -4.6885,1.97526 -3.7245,7.25814 -3.7778,11.34106 0,12.19564 0,24.39108 0,36.58652 2.1464,6.48668 9.4061,4.35694 14.5647,4.74363 4.8308,0.0387 9.6618,0.0729 14.4927,0.1114 15.1382,14.72065 29.9824,29.74615 45.4188,44.15767 6.5328,5.10032 14.012,-3.33675 11.5958,-10.09014 0.1371,-15.76826 -0.5324,-31.55281 -0.1328,-47.308 0.4957,-17.36819 0.032,-34.75523 0.2099,-52.13134 0,-9.55883 -0.068,-19.1185 -0.3417,-28.67368 -0.702,-2.45773 -2.7823,-4.83747 -5.499,-4.89488 z"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#e6e600;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1461.1975,386.32609 c -58.0989,-60.562 -94.5258,-138.89129 -101.8497,-219.00809 l -2.4826,-27.1552 27.7305,-13.362 c 46.3603,-22.3387 100.5694,-32.164703 159.2709,-28.869403 48.5004,2.722603 110.0752,17.950003 130.2115,32.201203 7.1172,5.0372 7.0238,6.387 -0.775,11.1732 -69.7129,42.7835 -136.4876,146.54099 -154.0819,239.41869 -4.8147,25.417 -11.0738,46.2128 -13.9091,46.2128 -2.8352,0 -22.6868,-18.2751 -44.1146,-40.6112 z"
+       id="path6507-9-0-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\pausebtn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#e600e6;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1041.9607,387.51789 c -11.8036,-84.0563 -61.3697,-175.33959 -122.1774,-225.00839 -15.1311,-12.3592 -28.2721,-24.5668 -29.2023,-27.1279 -3.4424,-9.4769 72.2808,-28.9562 123.8075,-31.8487 59.0677,-3.3158 112.93678,6.5439 160.21833,29.3251 l 28.67801,13.8175 -3.46673,26.6997 c -12.33202,94.98159 -60.42499,183.40219 -131.56081,241.87869 l -20.0831,16.5092 -6.2135,-44.2452 z"
+       id="path6509-3-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\pausebtn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e6e6;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1253.9376,738.26529 c -71.3497,-53.7414 -134.6998,-169.1071 -134.6998,-245.2989 0,-19.0564 1.4153,-21.8479 9.4446,-18.628 71.6005,28.7121 137.5166,39.0774 197.4197,31.0442 41.7694,-5.6014 89.0949,-18.8507 112.9982,-31.635 l 14.9353,-7.9878 -3.2619,24.0007 c -11.0492,81.294 -42.9767,147.7808 -99.2299,206.6399 -22.393,23.4305 -48.0806,46.5287 -57.0832,51.3294 -15.8592,8.4569 -17.1207,8.1622 -40.523,-9.4645 l 0,0 z"
+       id="path6511-4-7-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\pausebtn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.49390411;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-0-4-6-5"
+       width="45.737301"
+       height="141.54134"
+       x="-1279.819"
+       y="274.99741"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\pausebtn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.49390411;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4039-5-8-0-8-4-6-5"
+       width="45.737301"
+       height="141.54134"
+       x="-1207.6093"
+       y="276.66257"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\pausebtn.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#323232;fill-opacity:1;stroke:#1e1e1e;stroke-width:15.69630241;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -27.384558,-1011.6122 -7.209322,-8.7841 0,-51.0483 0,-51.0487 40.1420405,-37.4144 c 22.0780595,-20.5782 41.9691995,-37.4148 44.2025595,-37.4148 2.23336,0 6.12322,1.3424 8.644,2.9834 5.6228,3.6598 65.31771,59.1784 73.30335,68.1748 l 5.7704,6.5008 0,47.4603 c -0.0204,66.2686 -1.69124,69.1926 -39.77177,69.1926 -16.86906,0 -20.854,-0.7361 -21.89586,-4.0442 -0.70056,-2.2243 -1.27369,-19.3038 -1.27369,-37.9548 0,-42.2849 -0.76055,-43.6516 -24.29262,-43.6516 -13.27917,0 -16.13276,0.8197 -20.23836,5.8138 -4.40809,5.3618 -4.86107,8.6396 -5.8287,42.1862 l -1.04915,36.3723 -21.6427095,0.7305 -21.6427105,0.7303 -7.209152,-8.7841 z m -40.561628,-117.6329 c -1.315209,-1.9308 -1.842411,-5.2546 -1.171165,-7.3858 1.171841,-3.7206 102.079301,-97.5965 111.498941,-103.7291 8.98056,-5.8466 14.69521,-3.3068 35.97425,15.9896 l 20.92316,18.9731 4.77224,-6.1895 c 3.8777,-5.0294 6.84448,-6.1896 15.82827,-6.1896 14.59148,0 17.52914,4.853 17.75402,29.3319 l 0.166,17.9678 16.07397,15.377 c 15.87094,15.1824 20.16548,22.9722 14.86534,26.9636 -3.98426,3.0004 -6.59112,0.8854 -62.33228,-50.5716 -28.04809,-25.8926 -52.59846,-47.2199 -54.55627,-47.3943 -1.95764,-0.172 -28.3738,22.3373 -58.7025425,50.0257 -30.3285685,27.6884 -55.9435065,50.3424 -56.9221605,50.3424 -0.978652,0 -2.855631,-1.58 -4.170839,-3.5112 z"
+       id="path9403"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\home.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#323232;fill-opacity:1;stroke:#1e1e1e;stroke-width:18.70233536;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 534.41701,-1130.925 c -8.45604,-46.955 -52.85175,-84.168 -105.90109,-88.7682 l -11.18852,-0.9704 -0.4313,-13.1238 c -0.23752,-7.2182 -0.99514,-13.6204 -1.68392,-14.2272 -0.68898,-0.6068 -15.46806,10.5378 -32.84284,24.7658 -31.0758,25.4482 -31.54606,25.912 -28.89768,28.525 6.40022,6.3148 60.02672,49.6052 61.44912,49.6052 0.9892,0 1.7238,-5.947 1.98766,-16.0944 l 0.41896,-16.0944 9.69676,0.198 c 38.47594,0.7882 71.18102,37.8774 64.41388,73.0472 -6.27792,32.6248 -35.70476,54.8522 -72.61864,54.8522 -37.3516,0 -66.36782,-22.26 -72.78442,-55.8376 l -2.00856,-10.5105 -23.02164,0 -23.02161,0 0.1686,10.0125 c 0.39782,23.5423 16.60931,51.7925 39.73091,69.2357 23.96168,18.0763 47.69842,25.7157 79.44424,25.5674 14.8665,-0.069 20.16826,-0.6773 31.27224,-3.5851 24.48988,-6.4127 44.66622,-18.1462 60.44186,-35.1499 8.99757,-9.6979 19.63199,-28.3592 23.05749,-40.461 2.97212,-10.5005 4.12782,-30.937 2.31802,-40.9873 z"
+       id="path9416"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\replay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#323232;fill-opacity:1;stroke:#1e1e1e;stroke-width:4.69034195;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6459-3-5-82"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(3.9079843,-2.2120805,2.5341211,3.3968431,-3101.133,-1300.3113)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\next.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3562-6-9"
+       transform="matrix(0.67461801,0,0,0.70019283,312.24306,-632.99802)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\score.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="135"
+         y="-79.179932"
+         x="953.43298"
+         height="270"
+         width="330"
+         id="rect8910-2-5"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6501-7-4-1"
+         d="m 1108.9785,-42.28659 c -17.3484,-7.97274 -33.1583,-10.928 -57,-10.65471 -19.8092,0.22707 -34.7282,3.43551 -54.5,11.72061 -7.8846,3.30392 -2.3962,-24.21277 9.7657,-48.96133 9.1872,-18.69537 31.7218,-41.99932 50.9367,-52.67574 26.8054,-14.89392 61.9593,-19.21136 92.6056,-11.37337 50.2686,12.85656 86.8031,54.90118 94.3142,108.5388 l 1.3289,9.48969 -10.7256,-4.70457 c -17.2371,-7.56075 -31.319,-10.22774 -53.7255,-10.17518 -20.6337,0.0484 -41.0735,4.36042 -56,11.81389 -4.3471,2.17071 -6.5669,1.77662 -17,-3.01809 l 0,0 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6503-8-5-0"
+         d="m 1027.433,202.82007 c -58.4127,-14.82406 -97.3857,-62.9611 -97.9665,-121.00209 -0.2344,-23.42136 2.6033,-36.1068 12.9744,-58 6.6365,-14.00934 11.0747,-19.99066 25.2282,-34 l 17.175,-17 2.4562,14.63353 c 3.205,19.09544 5.6526,26.45387 14.4209,43.35508 7.6888,14.82042 26.8298,36.70612 40.2159,45.9827 6.8579,4.75253 8.0465,6.63648 8.0761,12.80069 0.066,13.7541 5.9278,35.2987 14.2099,52.228 6.7575,13.81296 11.6602,20.32164 26.1513,34.71805 9.8091,9.74492 17.5578,17.98826 17.2194,18.31854 -0.3384,0.33026 -6.4653,2.58514 -13.6153,5.01084 -16.8576,5.71904 -49.8759,7.18508 -66.5455,2.95466 l 0,0 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6505-4-8-7"
+         d="m 1152.6266,203.83579 c -7.8936,-2.06906 -17.1787,-5.22374 -20.6337,-7.01038 l -6.2819,-3.24846 8.427,-6.10448 c 28.7281,-20.81051 49.9278,-57.37488 53.1086,-91.59974 1.2357,-13.29587 1.6148,-14.1075 8.8139,-18.87163 27.1842,-17.98968 48.6207,-52.441 54.6132,-87.771 l 2.3048,-13.58788 10.1277,8.58788 c 20.2909,17.20574 34.1831,38.50011 42.1364,64.58788 4.9325,16.17913 4.909,49.3708 -0.047,66 -13.3018,44.63468 -51.3422,80.88065 -94.4756,90.01913 -18.55,3.9301 -40.7393,3.54764 -58.0937,-1.00132 l 0,0 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6507-1-8-9"
+         d="M 1031.0892,57.31798 C 1009.5589,35.69467 996.0598,7.72764 993.3457,-20.87763 l -0.92,-9.69562 10.2764,-4.77082 c 17.1802,-7.97593 37.269,-11.48423 59.0226,-10.30767 17.9733,0.97209 40.7917,6.40895 48.2538,11.49725 2.6375,1.79852 2.6029,2.28047 -0.2872,3.98933 -25.8342,15.27562 -50.5796,52.32166 -57.0997,85.48314 -1.7842,9.075 -4.1037,16.5 -5.1544,16.5 -1.0507,0 -8.4073,-6.525 -16.348,-14.5 z"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6509-8-1-4"
+         d="m 1186.45,57.74351 c -4.3742,-30.01182 -22.7424,-62.60404 -45.2765,-80.33798 -5.6073,-4.41281 -10.4771,-8.77145 -10.8218,-9.68588 -1.2757,-3.38367 26.7858,-10.33864 45.8806,-11.37139 21.8893,-1.1839 41.8521,2.33646 59.3737,10.47034 l 10.6275,4.93349 -1.2847,9.53295 c -4.57,33.91267 -22.3923,65.48275 -48.7538,86.36146 l -7.4424,5.89452 -2.3026,-15.79751 z"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6511-1-2-5"
+         d="m 1107.8956,182.97596 c -26.4408,-19.18806 -49.9171,-60.37878 -49.9171,-87.58263 0,-6.804 0.5245,-7.80067 3.5,-6.65105 26.5337,10.25151 50.9609,13.95238 73.1598,11.08416 15.4789,-1.99995 33.0168,-6.73051 41.8749,-11.29507 l 5.5347,-2.85202 -1.2088,8.56932 c -4.0946,29.02556 -15.9263,52.76435 -36.7726,73.77969 -8.2984,8.36571 -17.8177,16.61281 -21.1539,18.32688 -5.8771,3.01947 -6.3446,2.91426 -15.017,-3.37928 l 0,0 z"
+         style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#e40000;stroke-width:21.47878838;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 615.46604,-512.52798 c -24.2474,-18.44134 -55.82636,-51.6 -72.38626,-76.0062 -30.27174,-44.61686 -38.6009,-82.33426 -25.35824,-114.83178 17.13086,-42.03882 54.40638,-47.34468 91.20128,-12.98238 5.85282,5.46616 12.40082,12.61628 14.5513,15.88876 2.15002,3.27308 4.46152,5.951 5.13568,5.951 0.67366,0 5.84376,-5.52944 11.48776,-12.28688 39.60522,-47.41676 89.7369,-39.90444 103.6771,15.5366 4.99378,19.85906 2.23794,39.69482 -9.24744,66.57028 -8.8251,20.65 -18.07974,35.12498 -36.97358,57.82778 -23.88524,28.70028 -60.90182,62.46466 -68.48134,62.46466 -1.60248,0 -7.72526,-3.65962 -13.60626,-8.13184 z"
+       id="path6713"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssssssss"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\heart.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect8910-34-5"
+       width="714.94702"
+       height="540.59698"
+       x="-3046.5081"
+       y="-804.37817"
+       ry="270.29849" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#e600e6;stroke-width:10.71183681;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2872.8967,-953.5977 c -48.1362,-20.44418 -92.0037,-28.02238 -158.1566,-27.32139 -54.9642,0.58208 -96.3596,8.80941 -151.2199,30.05462 -21.8772,8.47221 -6.6486,-62.08793 27.0967,-125.54983 25.4914,-47.9397 88.0177,-107.6972 141.3328,-135.0743 74.3764,-38.192 171.9171,-49.2629 256.9506,-29.1643 139.4791,32.9676 240.8505,140.781 261.6915,278.32206 l 3.6872,24.33386 -29.76,-12.06367 c -47.8273,-19.38778 -86.9002,-26.22665 -149.0709,-26.09189 -57.252,0.12426 -113.9658,11.18144 -155.382,30.29393 -12.0618,5.5663 -18.2211,4.55574 -47.1694,-7.73909 l 0,0 z"
+       id="path6501-7-1-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcback.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#e6e600;stroke-width:10.71184063;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -3160.2098,-187.29832 c -162.0764,-38.01268 -270.2141,-161.44886 -271.8256,-310.2811 -0.6504,-60.0585 7.2234,-92.58736 35.9999,-148.72726 18.4141,-35.92366 30.7287,-51.2613 70.0002,-87.18495 l 47.6551,-43.59248 6.815,37.52422 c 8.893,48.96575 15.6841,67.83465 40.0135,111.1739 21.3339,38.00326 74.4441,94.12409 111.5861,117.91166 19.0285,12.18664 22.3265,17.01768 22.4085,32.82429 0.1821,35.26916 16.4478,90.51527 39.4281,133.92628 18.7498,35.4202 32.3532,52.11011 72.5614,89.02632 27.2171,24.98859 48.7172,46.12669 47.7782,46.97357 -0.939,0.84687 -17.9391,6.62891 -37.778,12.84907 -46.7744,14.66515 -138.3897,18.42436 -184.6424,7.57648 l 0,0 z"
+       id="path6503-8-8-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcleaderboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e6e6;stroke-width:10.71184731;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2670.6146,-196.43919 c -21.9023,-5.30558 -47.6654,-13.39495 -57.2521,-17.97641 l -17.4301,-8.32996 23.3823,-15.65343 c 79.7111,-53.36364 138.5335,-147.12443 147.3592,-234.88595 3.4287,-34.0941 4.4806,-36.17541 24.4558,-48.39184 75.4275,-46.13036 134.9069,-134.47267 151.5341,-225.06812 l 6.3952,-34.84285 28.101,22.02142 c 56.3008,44.12016 94.8472,98.72466 116.9151,165.62057 13.6861,41.48742 13.621,126.59968 -0.1307,169.2414 -36.9083,114.45523 -142.4581,207.39935 -262.1395,230.8328 -51.4704,10.07792 -113.0387,9.09714 -161.1914,-2.56763 l 0,0 z"
+       id="path6505-4-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcachievments.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00e600;stroke-width:10.71183968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -3081.8694,-610.87232 c -59.7397,-55.4477 -97.1954,-127.1625 -104.726,-200.5141 l -2.5529,-24.8622 28.5139,-12.2335 c 47.6694,-20.4524 103.4093,-29.4485 163.7687,-26.4315 49.87,2.4926 113.1839,16.4341 133.8887,29.482 7.3181,4.6119 7.2222,5.8477 -0.7969,10.2296 -71.6815,39.1706 -140.3421,134.1664 -158.4333,219.2013 -4.9506,23.2706 -11.3865,42.3102 -14.3018,42.3102 -2.9153,0 -23.3274,-16.7317 -45.3604,-37.1818 z"
+       id="path6507-1-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcplay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60000;stroke-width:10.71183968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2650.7932,-609.78092 c -12.1372,-76.9585 -63.1027,-160.5332 -125.6278,-206.0078 -15.5583,-11.3156 -29.0704,-22.4924 -30.027,-24.8371 -3.5397,-8.6766 74.322,-26.5112 127.304,-29.1593 60.7356,-3.0358 116.126,5.9913 164.7427,26.8488 l 29.4881,12.6506 -3.5648,24.445 c -12.6802,86.9609 -62.1314,167.915 -135.2759,221.4534 l -20.6503,15.1153 -6.389,-40.5089 z"
+       id="path6509-8-5-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcplay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000e6;stroke-width:10.71183968;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2868.7565,-288.65202 c -73.3646,-49.2033 -138.5039,-154.8272 -138.5039,-224.5851 0,-17.4472 1.4554,-20.0029 9.7114,-17.0549 73.6225,26.2874 141.4001,35.7776 202.995,28.4228 42.9489,-5.1284 91.6109,-17.2589 116.1893,-28.9635 l 15.357,-7.3134 -3.3541,21.974 c -11.3612,74.429 -44.1902,135.3017 -102.0319,189.1904 -23.0256,21.452 -49.4385,42.5996 -58.6954,46.9949 -16.307,7.7429 -17.6043,7.473 -41.6674,-8.6652 l 0,0 z"
+       id="path6511-1-3-59"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcplay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#e6e600;stroke-width:20.29907799;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -3307.0001,-343.79895 c -1.0984,-2.86285 -0.7344,-8.55855 0.6347,-9.92752 0.9725,-0.97264 15.68,-1.29142 59.5853,-1.29142 49.1618,0 58.4937,0.24037 59.5677,1.53479 0.7005,0.84367 1.1228,3.62789 0.9388,6.18673 l -0.3349,4.65258 -59.8674,0.27787 c -53.894,0.25023 -59.9332,0.10712 -60.5242,-1.43303 z m -0.3994,-17.94362 c -0.5953,-0.73976 -4.5859,-13.69209 -8.8679,-28.7825 -4.2819,-15.09084 -8.2179,-28.26426 -8.7462,-29.27439 -0.5285,-1.01034 -2.6525,-2.15394 -4.7199,-2.54192 -5.2282,-0.98078 -9.1267,-5.84524 -9.1267,-11.38861 0,-9.7075 11.5172,-14.30674 18.4544,-7.36932 2.8054,2.80543 3.1896,3.89804 2.9507,8.39594 -0.1521,2.84399 0.073,5.73426 0.4996,6.42303 1.5725,2.54449 29.0571,21.80717 29.9053,20.95922 0.4833,-0.48332 2.3405,-13.4515 4.1271,-28.81807 3.0432,-26.17331 3.1319,-28.00696 1.4041,-29.01494 -7.3852,-4.30809 -9.5807,-10.20175 -6.2208,-16.69933 3.2662,-6.31592 11.1613,-7.3629 16.8943,-2.24049 4.3507,3.88754 4.7762,9.65801 1.0928,14.83033 -1.318,1.85122 -2.3738,4.01715 -2.3461,4.81347 0.1028,2.98325 23.2134,49.86726 24.58,49.86726 1.2162,0 24.865,-47.69576 24.865,-50.14898 0,-0.47561 -1.2105,-2.6484 -2.69,-4.82847 -2.9155,-4.29631 -3.3736,-7.84814 -1.4881,-11.53537 3.4023,-6.65291 12.4279,-8.33253 17.503,-3.25768 6.2096,6.20986 4.8903,13.19655 -3.5319,18.70458 l -2.534,1.65712 2.8754,25.24224 c 3.3681,29.5679 3.7843,32.23643 5.0303,32.23643 0.5157,0 7.455,-4.83275 15.4208,-10.73969 l 14.4835,-10.73969 -0.2078,-6.02263 c -0.1929,-5.56073 0.062,-6.26407 3.3061,-9.16612 5.0191,-4.48998 11.1156,-4.41135 15.422,0.19924 6.3037,6.74825 2.5576,16.97505 -6.8658,18.74294 -4.4153,0.82824 -3.3586,-1.87608 -14.2858,36.55629 -3.3652,11.83594 -6.5603,22.36697 -7.1002,23.4028 -0.917,1.75846 -4.8831,1.88293 -59.9913,1.88293 -45.913,0 -59.2497,-0.29843 -60.0919,-1.34519 z"
+       id="path5109-8-33"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcleaderboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="m -3307.0001,-343.79895 c -1.0984,-2.86285 -0.7344,-8.55855 0.6347,-9.92752 0.9725,-0.97264 15.68,-1.29142 59.5853,-1.29142 49.1618,0 58.4937,0.24037 59.5677,1.53479 0.7005,0.84367 1.1228,3.62789 0.9388,6.18673 l -0.3349,4.65258 -59.8674,0.27787 c -53.894,0.25023 -59.9332,0.10712 -60.5242,-1.43303 z m -0.3994,-17.94362 c -0.5953,-0.73976 -4.5859,-13.69209 -8.8679,-28.7825 -4.2819,-15.09084 -8.2179,-28.26426 -8.7462,-29.27439 -0.5285,-1.01034 -2.6525,-2.15394 -4.7199,-2.54192 -5.2282,-0.98078 -9.1267,-5.84524 -9.1267,-11.38861 0,-9.7075 11.5172,-14.30674 18.4544,-7.36932 2.8054,2.80543 3.1896,3.89804 2.9507,8.39594 -0.1521,2.84399 0.073,5.73426 0.4996,6.42303 1.5725,2.54449 29.0571,21.80717 29.9053,20.95922 0.4833,-0.48332 2.3405,-13.4515 4.1271,-28.81807 3.0432,-26.17331 3.1319,-28.00696 1.4041,-29.01494 -7.3852,-4.30809 -9.5807,-10.20175 -6.2208,-16.69933 3.2662,-6.31592 11.1613,-7.3629 16.8943,-2.24049 4.3507,3.88754 4.7762,9.65801 1.0928,14.83033 -1.318,1.85122 -2.3738,4.01715 -2.3461,4.81347 0.1028,2.98325 23.2134,49.86726 24.58,49.86726 1.2162,0 24.865,-47.69576 24.865,-50.14898 0,-0.47561 -1.2105,-2.6484 -2.69,-4.82847 -2.9155,-4.29631 -3.3736,-7.84814 -1.4881,-11.53537 3.4023,-6.65291 12.4279,-8.33253 17.503,-3.25768 6.2096,6.20986 4.8903,13.19655 -3.5319,18.70458 l -2.534,1.65712 2.8754,25.24224 c 3.3681,29.5679 3.7843,32.23643 5.0303,32.23643 0.5157,0 7.455,-4.83275 15.4208,-10.73969 l 14.4835,-10.73969 -0.2078,-6.02263 c -0.1929,-5.56073 0.062,-6.26407 3.3061,-9.16612 5.0191,-4.48998 11.1156,-4.41135 15.422,0.19924 6.3037,6.74825 2.5576,16.97505 -6.8658,18.74294 -4.4153,0.82824 -3.3586,-1.87608 -14.2858,36.55629 -3.3652,11.83594 -6.5603,22.36697 -7.1002,23.4028 -0.917,1.75846 -4.8831,1.88293 -59.9913,1.88293 -45.913,0 -59.2497,-0.29843 -60.0919,-1.34519 z"
+       id="path5109-8-33-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcleaderboard.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#00e6e6;stroke-width:18.85052872;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -2444.8667,-359.7715 c -6.8312,-6.62099 -12.4204,-12.29849 -12.4204,-12.61663 0,-2.37867 19.5525,-37.03064 20.8949,-37.03064 0.942,0 3.0197,2.11473 4.6173,4.6995 3.3573,5.4322 4.8852,5.68714 12.0846,2.01404 6.6902,-3.413 10.033,-3.54133 8.7351,-0.33549 -0.5231,1.29228 -5.0416,14.10643 -10.0411,28.4753 -4.9994,14.36952 -9.6209,26.28495 -10.2698,26.47905 -0.6492,0.19495 -6.7695,-5.06414 -13.6006,-11.68513 z m 55.3781,10.44041 c -0.3285,-0.92336 -4.4806,-12.85679 -9.2268,-26.51932 -4.7462,-13.66232 -9.0549,-25.89803 -9.5749,-27.19031 -1.2895,-3.2052 2.0522,-3.07687 8.7411,0.33549 7.1994,3.6731 8.7271,3.41816 12.0847,-2.01404 1.5973,-2.58477 3.6694,-4.6995 4.6046,-4.6995 0.9349,0 5.2663,6.75961 9.6252,15.02122 13.2259,25.06787 13.3553,20.92774 -1.0864,34.73253 -6.8596,6.55693 -12.9442,11.94221 -13.5213,11.96727 -0.577,0.0236 -1.3178,-0.71041 -1.6462,-1.63334 z m -41.9817,-63.1969 c -5.3285,-7.05782 -5.715,-7.29027 -13.5957,-8.18192 -4.461,-0.50474 -8.4769,-1.50952 -8.9238,-2.23278 -0.4471,-0.72326 -1.1592,-4.67101 -1.5826,-8.77257 -0.7367,-7.13752 -1.0804,-7.69175 -8.0193,-12.9307 -3.9872,-3.01046 -6.9723,-6.13446 -6.6334,-6.94256 0.3389,-0.80811 1.9414,-4.59989 3.561,-8.42637 l 2.9447,-6.95713 -3.4976,-7.63969 c -1.9236,-4.20183 -3.4974,-7.84964 -3.4974,-8.1063 0,-0.25687 3.2352,-2.85685 7.1893,-5.77775 7.0881,-5.23638 7.1999,-5.42727 7.9386,-13.57598 0.4122,-4.54547 1.0568,-8.57205 1.4326,-8.94782 0.3755,-0.37556 4.4021,-1.0202 8.9476,-1.43239 8.1487,-0.73891 8.3396,-0.85052 13.576,-7.93877 2.9211,-3.95395 5.5189,-7.18915 5.7728,-7.18915 0.2541,0 3.9593,1.54658 8.234,3.43701 l 7.7719,3.437 8.1555,-3.53705 8.1558,-3.53684 2.7022,3.24033 c 1.4861,1.78246 3.9235,4.9296 5.4165,6.9942 2.2624,3.12807 4.147,3.94924 11.3152,4.92938 4.7305,0.64721 8.7946,1.37004 9.0316,1.60699 0.2367,0.23694 0.8252,4.20633 1.3074,8.8212 0.8623,8.2492 0.9982,8.48014 8.0596,13.69681 3.9506,2.91834 7.1828,5.51596 7.1828,5.77283 0,0.25666 -1.574,3.90447 -3.4977,8.1063 l -3.4974,7.63969 2.9447,6.95713 c 1.6196,3.82648 3.2221,7.61826 3.5608,8.42637 0.339,0.8081 -2.646,3.9321 -6.6334,6.94256 -6.9387,5.23895 -7.2825,5.79318 -8.0191,12.9307 -0.4233,4.10156 -1.1354,8.04931 -1.5826,8.77257 -0.4471,0.72326 -4.4319,1.72461 -8.8552,2.22485 -7.4064,0.8381 -8.3776,1.34755 -12.2767,6.44018 -6.9738,9.1085 -7.1583,9.17105 -15.3089,5.17339 l -7.229,-3.54541 -7.0638,3.05802 c -3.8852,1.68155 -7.725,3.34338 -8.5331,3.6928 -0.8081,0.34921 -3.9372,-2.63404 -6.9539,-6.62913 z m 33.3991,-21.24566 c 10.7279,-3.5919 20.209,-14.33674 22.6361,-25.6538 3.169,-14.77635 -3.9705,-30.29696 -17.4004,-37.82803 -6.3262,-3.54734 -8.7327,-4.13521 -16.7843,-4.10114 -7.012,0.0278 -10.8092,0.78389 -14.9506,2.96911 -12.7657,6.73625 -19.6211,17.92734 -19.5405,31.89859 0.056,9.79856 2.2617,15.73892 8.4656,22.80488 8.6588,9.86197 24.9138,14.14928 37.5741,9.91039 z"
+       id="path6222"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcachievments.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m -2444.8667,-359.7715 c -6.8312,-6.62099 -12.4204,-12.29849 -12.4204,-12.61663 0,-2.37867 19.5525,-37.03064 20.8949,-37.03064 0.942,0 3.0197,2.11473 4.6173,4.6995 3.3573,5.4322 4.8852,5.68714 12.0846,2.01404 6.6902,-3.413 10.033,-3.54133 8.7351,-0.33549 -0.5231,1.29228 -5.0416,14.10643 -10.0411,28.4753 -4.9994,14.36952 -9.6209,26.28495 -10.2698,26.47905 -0.6492,0.19495 -6.7695,-5.06414 -13.6006,-11.68513 z m 55.3781,10.44041 c -0.3285,-0.92336 -4.4806,-12.85679 -9.2268,-26.51932 -4.7462,-13.66232 -9.0549,-25.89803 -9.5749,-27.19031 -1.2895,-3.2052 2.0522,-3.07687 8.7411,0.33549 7.1994,3.6731 8.7271,3.41816 12.0847,-2.01404 1.5973,-2.58477 3.6694,-4.6995 4.6046,-4.6995 0.9349,0 5.2663,6.75961 9.6252,15.02122 13.2259,25.06787 13.3553,20.92774 -1.0864,34.73253 -6.8596,6.55693 -12.9442,11.94221 -13.5213,11.96727 -0.577,0.0236 -1.3178,-0.71041 -1.6462,-1.63334 z m -41.9817,-63.1969 c -5.3285,-7.05782 -5.715,-7.29027 -13.5957,-8.18192 -4.461,-0.50474 -8.4769,-1.50952 -8.9238,-2.23278 -0.4471,-0.72326 -1.1592,-4.67101 -1.5826,-8.77257 -0.7367,-7.13752 -1.0804,-7.69175 -8.0193,-12.9307 -3.9872,-3.01046 -6.9723,-6.13446 -6.6334,-6.94256 0.3389,-0.80811 1.9414,-4.59989 3.561,-8.42637 l 2.9447,-6.95713 -3.4976,-7.63969 c -1.9236,-4.20183 -3.4974,-7.84964 -3.4974,-8.1063 0,-0.25687 3.2352,-2.85685 7.1893,-5.77775 7.0881,-5.23638 7.1999,-5.42727 7.9386,-13.57598 0.4122,-4.54547 1.0568,-8.57205 1.4326,-8.94782 0.3755,-0.37556 4.4021,-1.0202 8.9476,-1.43239 8.1487,-0.73891 8.3396,-0.85052 13.576,-7.93877 2.9211,-3.95395 5.5189,-7.18915 5.7728,-7.18915 0.2541,0 3.9593,1.54658 8.234,3.43701 l 7.7719,3.437 8.1555,-3.53705 8.1558,-3.53684 2.7022,3.24033 c 1.4861,1.78246 3.9235,4.9296 5.4165,6.9942 2.2624,3.12807 4.147,3.94924 11.3152,4.92938 4.7305,0.64721 8.7946,1.37004 9.0316,1.60699 0.2367,0.23694 0.8252,4.20633 1.3074,8.8212 0.8623,8.2492 0.9982,8.48014 8.0596,13.69681 3.9506,2.91834 7.1828,5.51596 7.1828,5.77283 0,0.25666 -1.574,3.90447 -3.4977,8.1063 l -3.4974,7.63969 2.9447,6.95713 c 1.6196,3.82648 3.2221,7.61826 3.5608,8.42637 0.339,0.8081 -2.646,3.9321 -6.6334,6.94256 -6.9387,5.23895 -7.2825,5.79318 -8.0191,12.9307 -0.4233,4.10156 -1.1354,8.04931 -1.5826,8.77257 -0.4471,0.72326 -4.4319,1.72461 -8.8552,2.22485 -7.4064,0.8381 -8.3776,1.34755 -12.2767,6.44018 -6.9738,9.1085 -7.1583,9.17105 -15.3089,5.17339 l -7.229,-3.54541 -7.0638,3.05802 c -3.8852,1.68155 -7.725,3.34338 -8.5331,3.6928 -0.8081,0.34921 -3.9372,-2.63404 -6.9539,-6.62913 z m 33.3991,-21.24566 c 10.7279,-3.5919 20.209,-14.33674 22.6361,-25.6538 3.169,-14.77635 -3.9705,-30.29696 -17.4004,-37.82803 -6.3262,-3.54734 -8.7327,-4.13521 -16.7843,-4.10114 -7.012,0.0278 -10.8092,0.78389 -14.9506,2.96911 -12.7657,6.73625 -19.6211,17.92734 -19.5405,31.89859 0.056,9.79856 2.2617,15.73892 8.4656,22.80488 8.6588,9.86197 24.9138,14.14928 37.5741,9.91039 z"
+       id="path6222-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcachievments.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.92182875;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6459-3-5-8"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(2.3617262,-1.4179087,1.5314544,2.1773227,-5175.5615,-759.92822)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcplay.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:#e600e6;stroke-width:4.63433599;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path6459-3-5-8-8"
+       sodipodi:sides="3"
+       sodipodi:cx="673"
+       sodipodi:cy="488.5"
+       sodipodi:r1="33.559647"
+       sodipodi:r2="33.559647"
+       sodipodi:arg1="0.5838704"
+       sodipodi:arg2="1.631068"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 701,507 -58.02147,-3.50129 32.04294,-48.49742 z"
+       transform="matrix(-2.0185398,-1.21187,-1.3089162,1.8609323,-844.75693,-1187.1858)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcback.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       y="-1541.895"
+       x="-2200.1348"
+       id="image6723"
+       xlink:href="data:image/png;base64,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 "
+       height="128"
+       width="274.28571" />
+    <g
+       id="g4122"
+       transform="translate(6.7245833,181.56325)"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\gcsignout.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#faedeb"
+         d="m -2200.1348,-1477.895 0,-64 137.1429,0 137.1428,0 0,64 0,64 -137.1428,0 -137.1429,0 0,-64 z"
+         id="path4126"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#dd4a33"
+         d="m -2193.1517,-1428.07 c -4.3991,-2.2354 -4.3848,-2.0551 -4.1523,-52.1959 l 0.2168,-46.779 1.9834,-1.9829 1.9834,-1.9828 130.1285,0 130.1284,0 1.9834,1.9833 1.9834,1.9834 0,47.8428 0,47.8428 -1.9833,1.9833 -1.9833,1.9834 -129.0643,0.2095 c -102.427,0.1663 -129.5101,-0.017 -131.2241,-0.8879 z m 41.8812,-18.0566 c 7.5964,-2.1101 12.9588,-8.1504 12.9588,-14.5971 0,-4.6914 -2.062,-8.3366 -6.9281,-12.2471 -4.4642,-3.5875 -4.6962,-6.5407 -0.8014,-10.2035 5.1781,-4.8695 6.4637,-11.3035 3.4426,-17.229 -1.5393,-3.0193 -1.5569,-3.3214 -0.2176,-3.738 3.6635,-1.1396 5.3753,-2.0914 5.3753,-2.9886 0,-0.6842 -3.5535,-0.8835 -11.9728,-0.6717 -10.7603,0.2707 -12.3064,0.5086 -15.2672,2.3493 -4.8952,3.0434 -7.59,7.5045 -7.59,12.5646 0,7.325 4.0589,12.1911 11.1093,13.3185 2.9127,0.4658 3.6041,0.9623 3.9828,2.8604 1.1874,5.9497 1.3522,5.6638 -3.6971,6.4131 -17.2029,2.5528 -21.5913,19.5711 -6.2457,24.2216 3.2727,0.9918 12.198,0.9622 15.8511,-0.053 z m -9.5773,-3.4239 c -4.3831,-1.1058 -8.2884,-5.4019 -8.2884,-9.1179 0,-5.4634 5.3825,-9.213 13.2249,-9.213 3.5654,0 4.7777,0.4731 7.7661,3.0311 1.9477,1.6672 3.8041,4.0784 4.1253,5.3584 0.7477,2.979 -0.8402,6.8101 -3.5617,8.5933 -2.5752,1.6874 -9.2379,2.3644 -13.2662,1.3481 z m 0.323,-35.1454 c -6.5012,-6.5011 -5.9785,-18.659 0.8584,-19.9659 5.9598,-1.1393 10.9713,5.3748 11.0408,14.3514 0.03,3.8371 -0.315,4.8234 -2.2754,6.5096 -3.2575,2.802 -6.2005,2.5282 -9.6238,-0.8951 z m 134.6609,16.8931 c 1.8949,-1.5329 2.0556,-2.2987 2.0556,-9.7959 l 0,-8.133 -4.8371,-0.2561 c -6.09,-0.3224 -8.2241,1.5517 -8.2241,7.2221 0,4.5411 2.2394,7.4013 5.7948,7.4013 1.3625,0 2.4773,0.3654 2.4773,0.8121 0,1.029 -3.1983,2.0789 -4.2858,1.4068 -1.0411,-0.6435 -2.087,0.9814 -1.3741,2.1349 0.9075,1.4682 6.2188,0.9669 8.3934,-0.7922 z m -5.7109,-7.5341 c -0.757,-0.757 -1.3763,-2.3 -1.3763,-3.4288 0,-2.2811 2.3074,-5.0803 3.5532,-4.3104 0.4403,0.2721 0.8005,2.2118 0.8005,4.3104 0,4.324 -0.9677,5.4385 -2.9774,3.4288 z m -90.1927,2.6664 c 0.4147,-3.3171 0.6013,-3.5037 3.9184,-3.9184 3.0186,-0.3773 3.483,-0.7256 3.483,-2.6122 0,-1.8866 -0.4644,-2.2349 -3.483,-2.6123 -3.3171,-0.4146 -3.5037,-0.6012 -3.9184,-3.9183 -0.3773,-3.0186 -0.7256,-3.483 -2.6122,-3.483 -1.8866,0 -2.2349,0.4644 -2.6122,3.483 -0.4147,3.3171 -0.6013,3.5037 -3.9184,3.9183 -3.0186,0.3774 -3.483,0.7257 -3.483,2.6123 0,1.8866 0.4644,2.2349 3.483,2.6122 3.1174,0.3897 3.5098,0.7096 3.7381,3.0476 0.405,4.1465 0.9132,4.9298 3.0063,4.6325 1.5722,-0.2232 2.0498,-0.9723 2.3984,-3.7617 z m 73.8199,-0.049 c 3.7991,-2.661 1.9653,-7.9757 -3.2892,-9.5324 -2.7773,-0.8228 -4.3538,-2.0876 -4.3538,-3.4929 0,-2.0765 2.821,-2.2709 4.8802,-0.3364 1.1342,1.0656 2.5807,1.6524 3.3476,1.3581 3.4871,-1.3381 -0.6833,-5.7974 -5.4218,-5.7974 -4.44,0 -7.1597,2.0216 -7.1597,5.3218 0,2.3274 0.5199,2.8407 4.7891,4.7288 3.3886,1.4986 4.7891,2.6032 4.7891,3.7773 0,2.5746 -2.6318,3.0294 -5.4544,0.9426 -4.2984,-3.178 -6.8821,-0.7081 -2.7003,2.5813 2.7462,2.1601 7.8226,2.3758 10.5732,0.4492 z m 8.4659,-6.0578 c 0,-6.3735 -0.1454,-6.954 -1.7415,-6.954 -1.5481,0 -1.7705,0.6673 -2.002,6.0088 -0.3038,7.0093 0.1255,8.596 2.217,8.1933 1.3028,-0.2509 1.5265,-1.3129 1.5265,-7.2481 z m 22.0385,2.2071 c 0.4993,-8.798 4.2357,-8.9281 4.6957,-0.1636 0.224,4.2676 0.4943,4.9344 2.0005,4.9344 1.5316,0 1.773,-0.6677 2.0033,-5.5425 0.3548,-7.5097 -0.9562,-8.998 -7.6152,-8.6455 l -4.8371,0.2561 -0.2605,6.0088 c -0.3038,7.0084 0.1253,8.5947 2.217,8.197 1.1909,-0.2264 1.5858,-1.3353 1.7963,-5.0447 z m 28.8781,3.4869 c 2.3793,-2.3794 3.032,-5.6675 1.7428,-8.7798 -3.0241,-7.3011 -13.0404,-5.0154 -13.0404,2.9757 0,6.5358 6.98,10.1217 11.2976,5.8041 z m -5.9197,-1.9585 c -1.3844,-1.3845 -1.2999,-6.3291 0.1285,-7.5146 1.6684,-1.3846 3.2011,0.4629 3.2011,3.8586 0,3.2733 -1.7694,5.2161 -3.3296,3.656 z m 22.4861,-1.4755 c 0,-6.4596 0.6142,-8.334 2.2785,-6.9528 0.7197,0.5973 1.2044,2.6839 1.2044,5.1845 0,4.4864 1.5356,6.9216 4.3646,6.9216 2.2168,0 2.861,-1.3128 1.2857,-2.6202 -1.5379,-1.2763 -1.7304,-7.1577 -0.3087,-9.4341 0.7758,-1.2422 0.6608,-2.0807 -0.5355,-3.9065 -1.8856,-2.8777 -3.3295,-2.9437 -5.1054,-0.2334 -1.0291,1.5705 -2.0842,2.0585 -4.2362,1.9592 l -2.8658,-0.1323 -0.4354,5.6598 c -0.3275,4.257 -0.7591,5.6599 -1.7415,5.6599 -0.9335,0 -1.3716,-1.1179 -1.5357,-3.9184 -0.3609,-6.1575 -0.9483,-7.8367 -2.7415,-7.8367 -0.8974,0 -1.8695,0.6198 -2.1602,1.3773 -1.3708,3.5721 0.054,11.2776 2.3558,12.7413 0.5687,0.3616 3.0911,0.6634 5.6054,0.6708 l 4.5715,0.013 0,-5.1533 z m -67.9184,-14.4385 c 0,-0.7184 -0.5646,-1.3061 -1.2547,-1.3061 -1.4548,0 -2.4368,1.2428 -1.6241,2.0554 1.0406,1.0407 2.8788,0.5622 2.8788,-0.7493 z"
+         id="path4124"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60000;stroke-width:1.97791243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1738.9484,1058.994 c -10.8824,-5.1908 -20.7998,-7.1149 -35.7554,-6.9369 -12.426,0.1477 -21.7845,2.2366 -34.1872,7.6308 -4.9459,2.1511 -1.503,-15.764 6.126,-31.8771 5.763,-12.1719 19.8987,-27.3444 31.9519,-34.29545 16.8147,-9.69695 38.8663,-12.5079 58.0903,-7.40483 31.5329,8.3705 54.4505,35.74438 59.162,70.66608 l 0.8337,6.1784 -6.728,-3.0629 c -10.8126,-4.9227 -19.6461,-6.659 -33.7013,-6.6248 -12.9432,0.032 -25.7649,2.8389 -35.128,7.6916 -2.7271,1.4134 -4.1195,1.1568 -10.664,-1.9649 l 0,0 z"
+       id="path6501-7-4-1-4-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00e600;stroke-width:1.97791243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1799.4766,1231.701 c -36.6415,-9.6515 -61.0887,-40.992 -61.4531,-78.7806 -0.147,-15.2489 1.633,-23.508 8.1386,-37.762 4.1631,-9.1209 6.9471,-13.0152 15.8255,-22.1362 l 10.7736,-11.0682 1.5408,9.5274 c 2.0104,12.4324 3.5457,17.2232 9.0459,28.2271 4.8231,9.6491 16.8301,23.8981 25.227,29.9379 4.3019,3.0942 5.0475,4.3207 5.0661,8.3342 0.041,8.9548 3.7184,22.9818 8.9136,34.0038 4.2388,8.9933 7.3143,13.2309 16.4045,22.6039 6.153,6.3446 11.0137,11.7115 10.8014,11.9266 -0.2122,0.215 -4.0556,1.683 -8.5406,3.2624 -10.5747,3.7235 -31.2866,4.678 -41.7433,1.9237 l 0,0 z"
+       id="path6503-8-5-0-0-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000e6;stroke-width:1.97791243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1700.3177,1228.612 c -4.9516,-1.3471 -10.776,-3.4011 -12.9432,-4.5642 l -3.9407,-2.115 5.2862,-3.9744 c 18.0208,-13.549 31.3191,-37.3549 33.3144,-59.6377 0.7751,-8.6565 1.0129,-9.185 5.5288,-12.2867 17.0523,-11.7125 30.4993,-34.1425 34.2582,-57.1448 l 1.4458,-8.8467 6.3529,5.5913 c 12.7282,11.2021 21.4427,25.0662 26.4317,42.0511 3.0941,10.5337 3.0794,32.1437 -0.03,42.9705 -8.344,29.0601 -32.2062,52.6587 -59.2633,58.6085 -11.6362,2.5588 -25.5552,2.3097 -36.4415,-0.6519 l 0,0 z"
+       id="path6505-4-8-7-1-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#e6e600;stroke-width:1.97791243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1787.8073,1133.219 c -13.5058,-14.0783 -21.9736,-32.2867 -23.6761,-50.9107 l -0.577,-6.3125 6.4462,-3.1061 c 10.7769,-5.1929 23.3783,-7.477 37.024,-6.711 11.2746,0.633 25.5881,4.1727 30.2691,7.4855 1.6544,1.1709 1.6327,1.4847 -0.1802,2.5973 -16.2055,9.9455 -31.7279,34.065 -35.8179,55.6554 -1.1191,5.9083 -2.5741,10.7425 -3.2333,10.7425 -0.6591,0 -5.2739,-4.2482 -10.2548,-9.4404 z"
+       id="path6507-1-8-9-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#e600e6;stroke-width:1.97791243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1690.3515,1133.4961 c -2.7439,-19.5397 -14.266,-40.7596 -28.4014,-52.3055 -3.5173,-2.8731 -6.5721,-5.7109 -6.7884,-6.3062 -0.8002,-2.203 16.8024,-6.7311 28.7803,-7.4036 13.7309,-0.7707 26.2534,1.5213 37.2444,6.817 l 6.6665,3.2121 -0.8059,6.2065 c -2.8666,22.0795 -14.0464,42.6338 -30.5827,56.2272 l -4.6684,3.8376 -1.4444,-10.2851 z"
+       id="path6509-8-1-4-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e6e6;stroke-width:1.97791243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1739.6277,1215.0308 c -16.586,-12.4928 -31.3124,-39.3105 -31.3124,-57.0222 0,-4.4299 0.3291,-5.0787 2.1955,-4.3302 16.6444,6.6744 31.9671,9.0838 45.8922,7.2165 9.7097,-1.3021 20.7112,-4.382 26.2676,-7.3539 l 3.4719,-1.8569 -0.7583,5.5792 c -2.5685,18.8977 -9.9903,34.3532 -23.067,48.0356 -5.2054,5.4466 -11.1768,10.8161 -13.2695,11.932 -3.6867,1.9659 -3.9799,1.8975 -9.42,-2.2001 l 0,0 z"
+       id="path6511-1-2-5-54-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60000;stroke-width:1.97791219;stroke-opacity:1"
+       d="m -1381.609,1057.1905 c -10.8825,-5.1908 -20.7998,-7.1146 -35.7556,-6.9368 -12.4259,0.1489 -21.7844,2.2368 -34.1871,7.6312 -4.946,2.1509 -1.503,-15.7643 6.1262,-31.8776 5.7629,-12.1715 19.8985,-27.34409 31.9517,-34.29522 16.8147,-9.69728 38.8663,-12.50784 58.0904,-7.40501 31.5327,8.37055 54.4504,35.74463 59.162,70.66603 l 0.8337,6.1785 -6.7282,-3.0627 c -10.8125,-4.9229 -19.6457,-6.6593 -33.7014,-6.6248 -12.9429,0.029 -25.7645,2.8387 -35.1281,7.6915 -2.7269,1.4135 -4.1191,1.1568 -10.6636,-1.9651 l 0,0 z"
+       id="path6501-7-4-1-4-4-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00e600;stroke-width:1.97791219;stroke-opacity:1"
+       d="m -1442.1374,1229.8977 c -36.6414,-9.6514 -61.0886,-40.9919 -61.4529,-78.7806 -0.1478,-15.2492 1.6329,-23.5081 8.1386,-37.7623 4.163,-9.1205 6.9471,-13.0148 15.8252,-22.1362 l 10.7737,-11.068 1.541,9.5278 c 2.0102,12.4324 3.5455,17.223 9.046,28.2267 4.8231,9.6494 16.8297,23.898 25.2268,29.9379 4.3016,3.0941 5.0474,4.3208 5.066,8.3342 0.041,8.9547 3.7183,22.9816 8.9138,34.0038 4.2389,8.9931 7.3144,13.2309 16.4043,22.6039 6.1533,6.3445 11.0137,11.7117 10.8017,11.9266 -0.2124,0.2152 -4.0559,1.6833 -8.541,3.2622 -10.5744,3.7239 -31.2864,4.6784 -41.7432,1.924 l 0,0 z"
+       id="path6503-8-5-0-0-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0000e6;stroke-width:1.97791219;stroke-opacity:1"
+       d="m -1342.9784,1226.8086 c -4.9515,-1.347 -10.7761,-3.4011 -12.9431,-4.5642 l -3.9407,-2.115 5.2861,-3.974 c 18.0206,-13.5496 31.3191,-37.3555 33.3145,-59.6383 0.7752,-8.6564 1.0128,-9.1845 5.5289,-12.2864 17.0522,-11.7128 30.4991,-34.1426 34.2578,-57.1446 l 1.4458,-8.8469 6.3532,5.5912 c 12.7283,11.2022 21.4424,25.0664 26.4316,42.0511 3.0939,10.5337 3.0795,32.1437 -0.03,42.9702 -8.344,29.0605 -32.2062,52.659 -59.2635,58.609 -11.6359,2.5586 -25.5553,2.3095 -36.441,-0.6521 l 0,0 z"
+       id="path6505-4-8-7-1-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#e6e600;stroke-width:1.97791219;stroke-opacity:1"
+       d="m -1430.4681,1131.4156 c -13.5059,-14.078 -21.9736,-32.2864 -23.676,-50.9109 l -0.577,-6.3123 6.446,-3.1062 c 10.7772,-5.1927 23.3783,-7.4767 37.0244,-6.7107 11.2744,0.6327 25.5881,4.1725 30.2691,7.4854 1.6543,1.171 1.6325,1.4846 -0.181,2.5975 -16.2056,9.9451 -31.7281,34.0648 -35.8182,55.6554 -1.1191,5.9079 -2.574,10.7424 -3.233,10.7424 -0.6594,0 -5.2741,-4.248 -10.2548,-9.4406 z"
+       id="path6507-1-8-9-2-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#e600e6;stroke-width:1.97791219;stroke-opacity:1"
+       d="m -1333.0124,1131.6926 c -2.7435,-19.5396 -14.2657,-40.759 -28.4012,-52.3054 -3.5173,-2.8732 -6.5721,-5.7104 -6.7883,-6.3061 -0.8003,-2.2027 16.8023,-6.7308 28.7804,-7.4035 13.7305,-0.7709 26.2532,1.521 37.2444,6.8171 l 6.6662,3.2116 -0.8057,6.2068 c -2.867,22.0792 -14.0463,42.6335 -30.5826,56.2271 l -4.6687,3.8375 -1.4445,-10.2851 z"
+       id="path6509-8-1-4-7-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e6e6;stroke-width:1.97791219;stroke-opacity:1"
+       d="m -1382.2886,1213.2273 c -16.5858,-12.4925 -31.312,-39.3107 -31.312,-57.0223 0,-4.4293 0.3288,-5.0787 2.1954,-4.3297 16.6444,6.6741 31.9672,9.0833 45.8921,7.2163 9.7098,-1.3021 20.7113,-4.3825 26.2677,-7.3539 l 3.4719,-1.8568 -0.7584,5.5793 c -2.5686,18.8973 -9.9903,34.3532 -23.0671,48.0351 -5.2055,5.447 -11.1766,10.8164 -13.2693,11.9322 -3.6868,1.9658 -3.9801,1.8977 -9.4203,-2.2002 l 0,0 z"
+       id="path6511-1-2-5-54-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#e60000;stroke-width:1.97791255;stroke-opacity:1"
+       d="m -1042.9572,1057.3576 c -10.8824,-5.1907 -20.8001,-7.1146 -35.7555,-6.9369 -12.4262,0.1489 -21.7848,2.2368 -34.1871,7.6313 -4.946,2.1508 -1.5031,-15.7644 6.1255,-31.8775 5.7632,-12.1717 19.8989,-27.34418 31.9523,-34.29562 16.8146,-9.69696 38.8663,-12.50752 58.0901,-7.40485 31.53303,8.37054 54.45083,35.74477 59.16203,70.66607 l 0.83408,6.1785 -6.72812,-3.0629 c -10.81277,-4.9228 -19.64622,-6.6591 -33.7015,-6.6248 -12.94339,0.032 -25.76509,2.839 -35.12809,7.6918 -2.7268,1.4134 -4.1195,1.1566 -10.6637,-1.9651 l 0,0 z"
+       id="path6501-7-4-1-4-4-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e600;stroke-width:1.97791255;stroke-opacity:1"
+       d="m -1103.4855,1230.0647 c -36.6415,-9.6513 -61.0886,-40.9917 -61.4532,-78.7805 -0.1454,-15.2491 1.6332,-23.5081 8.1386,-37.7622 4.1635,-9.1207 6.9471,-13.0149 15.8257,-22.1363 l 10.7735,-11.068 1.5407,9.5274 c 2.0101,12.4325 3.546,17.2234 9.0459,28.2269 4.8229,9.6493 16.8301,23.8983 25.2272,29.9381 4.3018,3.0941 5.0475,4.3207 5.066,8.3342 0.041,8.9544 3.7184,22.9816 8.9137,34.0039 4.2386,8.9929 7.314,13.2307 16.4044,22.6037 6.1528,6.3446 11.0136,11.7118 10.8013,11.9269 -0.2122,0.2151 -4.0558,1.6828 -8.5408,3.2619 -10.5743,3.724 -31.2863,4.6784 -41.743,1.924 l 0,0 z"
+       id="path6503-8-5-0-0-7-3-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0000e6;stroke-width:1.97791255;stroke-opacity:1"
+       d="m -1004.3266,1226.9757 c -4.9516,-1.3471 -10.776,-3.4011 -12.9434,-4.5642 l -3.9404,-2.115 5.2859,-3.9741 c 18.02103,-13.5495 31.31944,-37.3554 33.31428,-59.6381 0.77537,-8.6566 1.01321,-9.1849 5.52908,-12.2866 17.05218,-11.7127 30.49897,-34.1425 34.2582,-57.1448 l 1.44552,-8.8467 6.35308,5.5912 c 12.72824,11.202 21.44279,25.0665 26.43161,42.0511 3.09436,10.5338 3.07941,32.1439 -0.0294,42.9704 -8.34392,29.0604 -32.20609,52.6589 -59.26302,58.6088 -11.63633,2.5586 -25.55542,2.3096 -36.44165,-0.652 l 0,0 z"
+       id="path6505-4-8-7-1-3-6-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#e6e600;stroke-width:1.97791255;stroke-opacity:1"
+       d="m -1091.8162,1131.5827 c -13.5059,-14.078 -21.9737,-32.2864 -23.676,-50.9109 l -0.5772,-6.3124 6.4463,-3.1061 c 10.7767,-5.1927 23.3782,-7.4767 37.0237,-6.7107 11.2745,0.6326 25.5883,4.1726 30.2692,7.4852 1.6545,1.1709 1.6328,1.4847 -0.1789,2.5977 -16.2055,9.9451 -31.7279,34.0648 -35.818,55.655 -1.119,5.9083 -2.5742,10.7424 -3.2334,10.7424 -0.6591,0 -5.2738,-4.2479 -10.2546,-9.4402 z"
+       id="path6507-1-8-9-2-3-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#e600e6;stroke-width:1.97791255;stroke-opacity:1"
+       d="m -994.36047,1131.8597 c -2.74391,-19.5397 -14.26613,-40.7592 -28.40163,-52.3053 -3.5174,-2.8733 -6.572,-5.7107 -6.7879,-6.3062 -0.8006,-2.2028 16.8023,-6.7311 28.78,-7.4038 13.73098,-0.7706 26.25318,1.5214 37.24443,6.8171 l 6.66646,3.2117 -0.80588,6.207 c -2.86663,22.0792 -14.04644,42.6337 -30.58255,56.2272 l -4.66846,3.8374 -1.44447,-10.2851 z"
+       id="path6509-8-1-4-7-3-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e6e6;stroke-width:1.97791255;stroke-opacity:1"
+       d="m -1043.6366,1213.3943 c -16.5861,-12.4924 -31.3125,-39.3107 -31.3125,-57.0222 0,-4.4297 0.3288,-5.0786 2.1955,-4.33 16.6442,6.6744 31.9672,9.0836 45.8924,7.2166 9.7096,-1.3022 20.7108,-4.3824 26.2676,-7.354 l 3.47175,-1.8566 -0.75812,5.5791 c -2.56853,18.8974 -9.99063,34.3531 -23.06703,48.0353 -5.2056,5.4469 -11.1771,10.8163 -13.2698,11.9318 -3.6866,1.9661 -3.98,1.8977 -9.4198,-2.2 l 0,0 z"
+       id="path6511-1-2-5-54-1-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#e60000;stroke-width:1.977911;stroke-opacity:1"
+       d="m -680.58381,1054.6518 c -10.8824,-5.1908 -20.79999,-7.1144 -35.75544,-6.9369 -12.42621,0.1489 -21.78482,2.2367 -34.18744,7.6309 -4.94567,2.1509 -1.50299,-15.7643 6.12595,-31.8771 5.76312,-12.1721 19.89879,-27.34446 31.95227,-34.29544 16.81451,-9.69696 38.8662,-12.50814 58.08998,-7.40483 31.53301,8.37037 54.45078,35.74407 59.16196,70.66587 l 0.83388,6.1784 -6.72834,-3.0631 c -10.81254,-4.9223 -19.64578,-6.6586 -33.70104,-6.6244 -12.94334,0.03 -25.76502,2.8389 -35.12806,7.6915 -2.72685,1.4132 -4.11954,1.1569 -10.66372,-1.9649 l 0,0 z"
+       id="path6501-7-4-1-4-4-2-5-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e600;stroke-width:1.977911;stroke-opacity:1"
+       d="m -741.11193,1227.3584 c -36.64154,-9.6513 -61.08882,-40.9914 -61.45333,-78.7805 -0.14733,-15.2488 1.63323,-23.5079 8.13869,-37.7616 4.16311,-9.1209 6.94702,-13.0152 15.82553,-22.1363 l 10.77359,-11.068 1.54066,9.527 c 2.01021,12.4325 3.54602,17.2231 9.04603,28.2273 4.82294,9.6492 16.83011,23.8982 25.22708,29.9381 4.30182,3.0939 5.0471,4.3208 5.06602,8.3343 0.042,8.9543 3.71841,22.9815 8.91367,34.0036 4.23867,8.993 7.31407,13.2303 16.40431,22.6039 6.15292,6.3445 11.01374,11.711 10.80139,11.9262 -0.21238,0.2152 -4.05578,1.6835 -8.54071,3.2623 -10.57427,3.7235 -31.28632,4.6782 -41.74293,1.9237 l 0,0 z"
+       id="path6503-8-5-0-0-7-3-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0000e6;stroke-width:1.977911;stroke-opacity:1"
+       d="m -641.95323,1224.2698 c -4.95155,-1.347 -10.77592,-3.4011 -12.94335,-4.5641 l -3.94044,-2.1151 5.28598,-3.9745 c 18.02074,-13.5492 31.31892,-37.3551 33.31421,-59.6374 0.77536,-8.6567 1.0132,-9.1851 5.52907,-12.2869 17.05215,-11.7127 30.49894,-34.1424 34.25817,-57.1446 l 1.4455,-8.8467 6.35308,5.5911 c 12.72823,11.2021 21.4428,25.066 26.43159,42.0511 3.09435,10.5339 3.07941,32.1438 -0.0294,42.9703 -8.34412,29.0604 -32.20607,52.659 -59.26296,58.6088 -11.63653,2.5587 -25.5554,2.3096 -36.4416,-0.652 l 0,0 z"
+       id="path6505-4-8-7-1-3-6-7-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#e6e600;stroke-width:1.977911;stroke-opacity:1"
+       d="m -729.44277,1128.8766 c -13.50571,-14.0781 -21.97382,-32.2863 -23.67609,-50.9105 l -0.57712,-6.3123 6.44611,-3.1063 c 10.77696,-5.1927 23.37849,-7.4768 37.02395,-6.7107 11.2745,0.6328 25.58823,4.1724 30.2691,7.4852 1.65431,1.1711 1.63284,1.4848 -0.17889,2.5972 -16.20544,9.9458 -31.72809,34.0649 -35.81797,55.6557 -1.11905,5.9083 -2.57427,10.7423 -3.23326,10.7423 -0.65918,0 -5.27376,-4.2483 -10.25476,-9.4406 z"
+       id="path6507-1-8-9-2-3-1-6-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#e600e6;stroke-width:1.977911;stroke-opacity:1"
+       d="m -631.98709,1129.1538 c -2.74391,-19.5397 -14.26614,-40.7596 -28.40159,-52.3052 -3.51741,-2.8732 -6.57195,-5.7109 -6.78812,-6.3065 -0.80041,-2.203 16.80253,-6.7311 28.78023,-7.4034 13.73092,-0.771 26.25311,1.521 37.24434,6.8171 l 6.66647,3.2115 -0.8059,6.2071 c -2.86663,22.0792 -14.04641,42.6333 -30.58271,56.2269 l -4.66826,3.8378 -1.44446,-10.2853 z"
+       id="path6509-8-1-4-7-3-3-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00e6e6;stroke-width:1.977911;stroke-opacity:1"
+       d="m -681.2632,1210.6886 c -16.58596,-12.4925 -31.31241,-39.311 -31.31241,-57.0225 0,-4.4294 0.32875,-5.0783 2.19542,-4.3298 16.64425,6.6743 31.96719,9.0836 45.89237,7.2166 9.70945,-1.3025 20.71077,-4.3823 26.26763,-7.3541 l 3.47153,-1.8571 -0.75834,5.5793 c -2.56816,18.8976 -9.99022,34.3531 -23.06657,48.0356 -5.2056,5.4468 -11.17708,10.8159 -13.2698,11.9321 -3.68682,1.966 -3.98,1.8971 -9.41983,-2.2001 l 0,0 z"
+       id="path6511-1-2-5-54-1-2-4-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\level0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.25;fill:#ff0000;fill-opacity:1;stroke:none"
+       id="rect4039-5-8-52-6-2-1"
+       width="128"
+       height="128"
+       x="128"
+       y="21.233015"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\colors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.25;fill:#00ff00;fill-opacity:1;stroke:none"
+       id="rect4039-5-8-52-0-5-4-7"
+       width="128"
+       height="128"
+       x="256"
+       y="21.233015"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\colors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.25;fill:#0000ff;fill-opacity:1;stroke:none"
+       id="rect4039-5-8-52-3-8-7-1"
+       width="128"
+       height="128"
+       x="384"
+       y="21.233015"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\colors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.25;fill:#00ffff;fill-opacity:1;stroke:none"
+       id="rect4039-5-8-52-35-4-6-1"
+       width="128"
+       height="128"
+       x="512"
+       y="21.233015"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\colors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.25;fill:#ff00ff;fill-opacity:1;stroke:none"
+       id="rect4039-5-8-52-1-5-8-5"
+       width="128"
+       height="128"
+       x="640"
+       y="21.233015"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\colors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.25;fill:#ffff00;fill-opacity:1;stroke:none"
+       id="rect4039-5-8-52-1-5-3-3-2"
+       width="128"
+       height="128"
+       x="768"
+       y="21.233015"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\colors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4039-5-8-52-6-2-5-7"
+       width="128"
+       height="128"
+       x="0"
+       y="21.233015"
+       ry="0"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\colors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3562-6-9-8-0"
+       transform="matrix(0.67461801,0,0,0.62345908,-1082.7563,1041.5592)"
+       style="opacity:0.75"
+       inkscape:export-filename="C:\Users\user\Documents\Active Projects\primalWarAssets\levelnew.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="135"
+         y="-79.179932"
+         x="953.43298"
+         height="270"
+         width="330"
+         id="rect8910-2-5-1-0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6501-7-4-1-4-32"
+         d="m 1108.9785,-42.28659 c -17.3484,-7.97274 -33.1583,-10.928 -57,-10.65471 -19.8092,0.22707 -34.7282,3.43551 -54.5,11.72061 -7.8846,3.30392 -2.3962,-24.21277 9.7657,-48.96133 9.1872,-18.69537 31.7218,-41.99932 50.9367,-52.67574 26.8054,-14.89392 61.9593,-19.21136 92.6056,-11.37337 50.2686,12.85656 86.8031,54.90118 94.3142,108.5388 l 1.3289,9.48969 -10.7256,-4.70457 c -17.2371,-7.56075 -31.319,-10.22774 -53.7255,-10.17518 -20.6337,0.0484 -41.0735,4.36042 -56,11.81389 -4.3471,2.17071 -6.5669,1.77662 -17,-3.01809 l 0,0 z"
+         style="fill:#4c4c4c;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6503-8-5-0-0-2"
+         d="m 1027.433,202.82007 c -58.4127,-14.82406 -97.3857,-62.9611 -97.9665,-121.00209 -0.2344,-23.42136 2.6033,-36.1068 12.9744,-58 6.6365,-14.00934 11.0747,-19.99066 25.2282,-34 l 17.175,-17 2.4562,14.63353 c 3.205,19.09544 5.6526,26.45387 14.4209,43.35508 7.6888,14.82042 26.8298,36.70612 40.2159,45.9827 6.8579,4.75253 8.0465,6.63648 8.0761,12.80069 0.066,13.7541 5.9278,35.2987 14.2099,52.228 6.7575,13.81296 11.6602,20.32164 26.1513,34.71805 9.8091,9.74492 17.5578,17.98826 17.2194,18.31854 -0.3384,0.33026 -6.4653,2.58514 -13.6153,5.01084 -16.8576,5.71904 -49.8759,7.18508 -66.5455,2.95466 l 0,0 z"
+         style="fill:#969696;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6505-4-8-7-1-7"
+         d="m 1152.6266,203.83579 c -7.8936,-2.06906 -17.1787,-5.22374 -20.6337,-7.01038 l -6.2819,-3.24846 8.427,-6.10448 c 28.7281,-20.81051 49.9278,-57.37488 53.1086,-91.59974 1.2357,-13.29587 1.6148,-14.1075 8.8139,-18.87163 27.1842,-17.98968 48.6207,-52.441 54.6132,-87.771 l 2.3048,-13.58788 10.1277,8.58788 c 20.2909,17.20574 34.1831,38.50011 42.1364,64.58788 4.9325,16.17913 4.909,49.3708 -0.047,66 -13.3018,44.63468 -51.3422,80.88065 -94.4756,90.01913 -18.55,3.9301 -40.7393,3.54764 -58.0937,-1.00132 l 0,0 z"
+         style="fill:#1d1d1d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6507-1-8-9-2-2"
+         d="M 1031.0892,57.31798 C 1009.5589,35.69467 996.0598,7.72764 993.3457,-20.87763 l -0.92,-9.69562 10.2764,-4.77082 c 17.1802,-7.97593 37.269,-11.48423 59.0226,-10.30767 17.9733,0.97209 40.7917,6.40895 48.2538,11.49725 2.6375,1.79852 2.6029,2.28047 -0.2872,3.98933 -25.8342,15.27562 -50.5796,52.32166 -57.0997,85.48314 -1.7842,9.075 -4.1037,16.5 -5.1544,16.5 -1.0507,0 -8.4073,-6.525 -16.348,-14.5 z"
+         style="fill:#e2e2e2;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6509-8-1-4-7-4"
+         d="m 1186.45,57.74351 c -4.3742,-30.01182 -22.7424,-62.60404 -45.2765,-80.33798 -5.6073,-4.41281 -10.4771,-8.77145 -10.8218,-9.68588 -1.2757,-3.38367 26.7858,-10.33864 45.8806,-11.37139 21.8893,-1.1839 41.8521,2.33646 59.3737,10.47034 l 10.6275,4.93349 -1.2847,9.53295 c -4.57,33.91267 -22.3923,65.48275 -48.7538,86.36146 l -7.4424,5.89452 -2.3026,-15.79751 z"
+         style="fill:#696969;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6511-1-2-5-54-6"
+         d="m 1107.8956,182.97596 c -26.4408,-19.18806 -49.9171,-60.37878 -49.9171,-87.58263 0,-6.804 0.5245,-7.80067 3.5,-6.65105 26.5337,10.25151 50.9609,13.95238 73.1598,11.08416 15.4789,-1.99995 33.0168,-6.73051 41.8749,-11.29507 l 5.5347,-2.85202 -1.2088,8.56932 c -4.0946,29.02556 -15.9263,52.76435 -36.7726,73.77969 -8.2984,8.36571 -17.8177,16.61281 -21.1539,18.32688 -5.8771,3.01947 -6.3446,2.91426 -15.017,-3.37928 l 0,0 z"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+  </g>
+</svg>
